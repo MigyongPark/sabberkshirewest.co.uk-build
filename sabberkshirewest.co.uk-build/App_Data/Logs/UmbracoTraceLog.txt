@@ -716,3 +716,5 @@ Login failed for user 'sabberkshirewest-user-local'.
 2017-12-11 13:57:03,463 [30] INFO  Umbraco.Core.PluginManager - [Thread 5] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 3ms)
 2017-12-11 13:57:03,981 [30] INFO  Umbraco.Core.PluginManager - [Thread 5] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
 2017-12-11 13:57:03,988 [30] INFO  Umbraco.Core.PluginManager - [Thread 5] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 6ms)
+2017-12-11 13:58:12,041 [30] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2017-10-12 13:58:11
+2017-12-11 13:59:38,379 [30] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2017-10-12 13:59:38
