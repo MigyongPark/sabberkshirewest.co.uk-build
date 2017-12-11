@@ -1,0 +1,12 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+<div class="row">
+	<img src="@CurrentPage.GetCropUrl("mainImage", "areaHomeLrg")">
+</div>
+</div>
+	
+@{ Html.RenderPartial("bodyGrid"); }

@@ -1,0 +1,15 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3&region=GB&sensor=false"></script>
+		
+    <script type="text/javascript">
+      function initialize() {
+        var mapOptions = {
+          center: { lat: 51.5220976, lng: -0.1641427},
+          zoom: 18
+        };
+        var map = new google.maps.Map(document.getElementById('map-canvas'),
+            mapOptions);
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>

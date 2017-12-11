@@ -1,0 +1,34 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+	
+	@{
+		var selection = CurrentPage.FirstChild("BannerRepository").Children("BannerItem").Where("Visible");
+	}
+
+
+<div id="myCarousel" class="carousel slide" data-interval="4400" data-ride="carousel" data-pause="hover">
+	<div class="carousel-inner">
+		
+		@foreach (var item in selection) 
+		{
+			<div class="item @item.IsFirst("active")" style="background-image:url('@item.GetCropUrl("image", "bannerHome")');">
+			<div class="carousel-caption">
+				<h2>@item.Name</h2>
+				<h3>@item.Subheading</h3>
+				<p>@item.Description</p>
+				@if (item.HasValue("link"))
+				{
+				<p><a class="btn btn-info" href="@Umbraco.Content(item.Link).Url" role="button">Read More</a></p>
+				}
+			</div>
+		</div>
+		}
+
+	</div>
+
+	<a class="carousel-control left" href="#myCarousel" data-slide="prev">
+		<span class="icon-prev"></span>
+	</a>
+	<a class="carousel-control right" href="#myCarousel" data-slide="next">
+		<span class="icon-next"></span>
+	</a>
+</div>

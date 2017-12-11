@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+	
+@{
+    var folderID = Model.Content.GetPropertyValue("folderToIndex");
+	var media = Umbraco.Media(folderID);
+}
+
+@if (media.Children.Count() > 0)
+{
+	foreach (var child in media.Children.Where("Visible").OrderBy("UpdateDate desc")) {
+		<div class="doclist">
+		<h2><a href="@child.Url" target="_blank">@child.Name</a></h2>
+		<p>[Last Updated: @child.UpdateDate.ToString("dd/MM/yyyy")]</p>
+		</div>
+
+	}
+}

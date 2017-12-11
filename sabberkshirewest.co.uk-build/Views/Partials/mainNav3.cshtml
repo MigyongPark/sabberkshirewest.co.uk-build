@@ -1,0 +1,51 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{ var homePage = CurrentPage.Site(); }
+@{ var topPages = CurrentPage.Site().Children; }
+
+@if (homePage.Children.Any())
+{
+    @* Get the first page in the children *@
+	var naviLevel = homePage.Children.First().Level;
+
+	<div class="container nav">
+	<div class="row">
+		<div class="menu-button">Menu</div>
+				<nav class="menu">
+				<ul class="flexnav" data-breakpoint="777">   
+					<li class="@(homePage.Id == CurrentPage.Id ? "active" : null)"><a href="@homePage.Url">@homePage.Name</a></li>
+					@* For each child page under the home node *@
+					@foreach (var childPage in homePage.Children.Where("Visible"))
+					{
+						
+							if(childPage.Children.Where("Visible").Any()) 
+							{
+								<li class="@(childPage.IsAncestorOrSelf(CurrentPage) ? "active" : null)">
+									<a href="@childPage.Url">@childPage.Name</a>
+									
+										<ul> 
+										@foreach (var grandChildPage in childPage.Children.Where("Visible"))
+										{	
+											<li>
+												<a href="@grandChildPage.Url">@grandChildPage.Name</a>
+											</li>
+										}
+										</ul>
+								</li>
+
+
+								
+							} else
+							{
+								<li class="@(childPage.IsAncestorOrSelf(CurrentPage) ? "active" : null)">
+								<a href="@childPage.Url">@childPage.Name</a>
+								</li>
+							}
+					}
+	
+				</ul>
+				</nav>
+
+	</div>
+	</div>
+}
+

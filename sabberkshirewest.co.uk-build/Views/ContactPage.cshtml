@@ -1,0 +1,30 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+	<div class="row">
+	<div class="col-xs-12">
+		<h1>@Umbraco.Field("pageName")</h1>
+	</div>
+	</div>
+</div>
+
+@Html.Partial("introText")
+		
+<div class="container">
+<div class="row">
+	<div class="col-xs-12">
+		<div id="map-canvas"></div>
+	</div>
+	<div class="col-xs-12">
+		@Umbraco.Field("bodyText")
+	</div>
+</div>
+</div>
+
+@section googleMapCode
+{
+	@Html.Partial("googleMapCode")
+}

@@ -1,0 +1,12 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+
+	@{ Html.RenderPartial("header"); }
+
+	@RenderBody()
+		
+	@{ Html.RenderPartial("Footer"); }	
+	
+@RenderSection("googleMapCode", false)

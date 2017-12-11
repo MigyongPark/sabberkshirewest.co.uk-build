@@ -1,0 +1,79 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+<div class="container">
+<div class="row newsPanel">
+	<div class="col-xs-12 col-sm-6">
+		
+	
+	@{
+		var selection = Umbraco.Content(1095).Children.Where("Visible").OrderBy("CreateDate desc");
+	}
+	
+		@foreach(var item in selection){
+			
+			<h2 class="title">Latest News</h2>
+			<div class="doclist">
+				<h3><a href="@item.Url">@item.Name</a></h3>
+				<p>@item.newsSummary</p>
+			</div>
+			<p><a href="news-archive">See all News Items</a></p>
+			
+		break;
+		}
+	</ul>
+	
+	</div>
+	
+
+	<div class="col-xs-12 col-sm-6">	
+	@{
+		var selection2 = Umbraco.Content(1172).Children.Where("Visible").OrderBy("CreateDate desc");
+	}
+	
+		@foreach(var item2 in selection2){
+	
+	
+				<h2 class="title">Latest Newsletter</h2>
+				<div class="doclist">
+					<h3><a href="@item2.Url">@item2.Name</a></h3>
+					<p>@item2.summaryText</p>
+				</div>
+				<p><a href="newsletters">See all News Letters</a></p>
+	
+			break;
+		}
+	</ul>
+	
+	</div>
+</div>
+
+<div class="row">
+<div class="col-xs-12">	
+	
+@{
+	var selection3 = Umbraco.Content(1228).Children.Where("Visible").OrderBy("CreateDate desc");
+}
+	@foreach(var item3 in selection3){
+		<div class="row newsPanel">
+		<div class="col-xs-12">
+			
+			<h2 class="title">Next Meeting</h2>
+			
+				<div class="meeting">
+				<h3><a href="@item3.Url">@item3.Name</a></h3>
+				<p><strong>Date:</strong> @item3.meetingDate.ToShortDateString() &nbsp;
+				<strong>Time:</strong> @item3.meetingTime <br>
+				<strong>Location:</strong> @item3.meetingLocation</p>
+				</div>
+			<p><a href="meetings">See all upcoming meetings</a></p>
+		</div>
+	</div>
+				
+
+		break;
+	}
+
+</div>
+</div>		
+
+</div>

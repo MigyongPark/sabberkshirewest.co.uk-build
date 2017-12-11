@@ -1,0 +1,11 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+	<h1>@Umbraco.Field("pageName")</h1>
+	
+	@Umbraco.Field("newsInFull")
+
+</div>

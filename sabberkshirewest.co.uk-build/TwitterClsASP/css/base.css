@@ -1,0 +1,53 @@
+body{
+	font-family:arial, helvetica;
+	padding:20px;
+}
+
+
+h1{
+	font-size:2.5em;
+	font-weight:700;
+}
+
+h2{
+	font-size:1.25em;
+	font-weight:700;
+}
+
+h3{
+	font-size:2em;
+	font-weight:700;
+}
+
+div{
+	margin:20px 0px;
+}
+
+p{
+	margin:35px 0px 0px 0px;
+}
+
+#container{
+	padding:0px 10px;
+}
+
+#instructions{
+	display:block;
+	position:relative;
+}
+
+#sign_in_container,
+#sign_out_container{
+	display:none;
+	margin:40px 0px 30px 0px;
+	overflow:hidden;
+	position:relative;
+}
+
+.code{
+	color:#00f;
+}
+
+.objectProp{
+	font-weight:700;
+}

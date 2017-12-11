@@ -1,0 +1,15 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+<div class="row newsPanel">
+<div class="col-xs-12">
+	<h1>@Umbraco.Field("pageName")	</h1>
+</div>
+</div>		
+</div>
+		
+@Html.Partial("introText")
+@{Html.RenderPartial("newsHome");}

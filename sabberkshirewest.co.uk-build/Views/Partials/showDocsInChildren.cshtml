@@ -1,0 +1,21 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+@{
+	var selection = CurrentPage.Children.Where("Visible").OrderBy("sortOrder desc");
+}
+
+<div class="container">
+	<div class="row">
+	<div class="col-xs-12">
+	@foreach(var item in selection){
+		var childsDocId = Umbraco.Content(item.Id).document;
+		var childsDoc = Umbraco.Media(childsDocId.ToString());
+		<div class="doclist">
+			<h2><a href="@childsDoc.Url" target="_blank">@item.Name</a></h2>
+		</div>
+	}
+	
+	</div>
+	</div>	
+</div>
+	

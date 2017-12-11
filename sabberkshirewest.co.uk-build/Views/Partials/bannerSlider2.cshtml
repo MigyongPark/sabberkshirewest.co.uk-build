@@ -1,0 +1,22 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+@{
+	var selection = CurrentPage.FirstChild("BannerRepository").Children("BannerItem").Where("Visible");
+}
+
+<!-- start banner slider html -->
+<div class="container">
+	<div class="row">
+	<ul class="pgwSlider">
+		@foreach (var item in selection) 
+		{		if (item.HasValue("link"))
+				{
+    				<li><a href="@Umbraco.Content(item.Link).Url"><img src="@item.GetCropUrl("image", "bannerHome2")" alt="@item.Name" data-description="@item.Subheading"></a></li>
+				} else {
+    				<li><img src="@item.GetCropUrl("image", "bannerHome2")" alt="@item.Name" data-description="@item.Subheading"></li>
+				}
+		}
+</ul>
+</div>
+</div>
+<!-- end banner slider html -->

@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+	
+	@{
+		var selection = CurrentPage.FirstChild("PromoRepository").Children("PromoItem").Where("Visible");
+	}
+
+	@foreach ( var item in selection )
+	{
+
+	<div class="feature">
+        <img src="@item.GetCropUrl("promoImage", "summaryList")" alt="">
+        <div class="feature-txt">  
+            <h2><a href="@Umbraco.Content(item.promoLink).Url">@item.Name</a></h2>
+            <p>@item.promoText</p>
+        </div>
+	</div>
+
+	}

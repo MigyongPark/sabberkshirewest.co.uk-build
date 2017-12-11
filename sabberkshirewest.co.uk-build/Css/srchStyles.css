@@ -1,0 +1,71 @@
+
+/*-----------------------------------------------------------------
+						Search Box UI
+-----------------------------------------------------------------*/
+.search-ui {
+	margin-bottom: 10px;
+}
+
+@media (min-width: 600px) and (max-width: 768px) {
+	.search-ui {
+		position: absolute;
+		width: 270px;
+		right: 0;
+		top: -88px
+	}
+}
+
+@media (min-width: 768px) {
+	.search-ui {
+		margin-top: 25px;
+	}
+}
+
+.search-ui #___gcse_0 * {
+    padding: 0;
+	margin: 0;
+}
+
+#___gcse_0 .gsc-search-box td, #___gcse_0 .gsc-search-box input.gsc-search-button {
+	vertical-align: bottom;
+}
+
+#___gcse_0 .gsc-input-box {
+	height: 44px;
+	border-radius: 1px;
+}
+
+#___gcse_0 input#gsc-i-id1.gsc-input {
+	height: auto !important;
+}
+
+.search-ui .gsc-input-box #gs_st50 {
+	display: none;
+}
+
+#___gcse_0 .gsc-input-box input {
+	padding: 6px !important;
+}
+
+#___gcse_0 .gsc-search-button input.gsc-search-button-v2 {
+	height: 44px !important;
+	width: 68px !important;
+	padding: 15px 26px;
+	margin-top: 5px;
+	margin-left: -3px;
+	background-color: #007FBE; 
+}
+
+/*-----------------------------------------------------------------
+						Search Results 
+-----------------------------------------------------------------*/
+
+.gsc-control-cse .gs-result .gs-title, .gsc-control-cse .gs-result .gs-title * {
+    font-size: 16px;
+    height: 22px;
+}
+
+.gs-webResult .gs-snippet, .gs-imageResult .gs-snippet, .gs-fileFormatType {
+    margin-left: 0;
+}
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

@@ -1,0 +1,1040 @@
+﻿2015-07-22 02:33:31,058 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-07-22 02:33:31,098 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 34ms)
+2015-07-22 02:33:31,117 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-07-22 02:33:31,144 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 36 (took 26ms)
+2015-07-22 02:33:31,409 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-07-22 02:33:31,410 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-07-22 02:33:31,410 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-07-22 02:33:31,413 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 2ms)
+2015-07-22 02:33:31,441 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-07-22 02:33:31,443 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 2ms)
+2015-07-22 02:33:31,444 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-07-22 02:33:31,453 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 35 (took 9ms)
+2015-07-22 02:33:31,612 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-07-22 02:33:31,613 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 1ms)
+2015-07-22 02:33:31,614 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-07-22 02:33:31,615 [7] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 1ms)
+2015-07-22 02:33:33,215 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-07-22 02:33:33,609 [7] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-07-22 02:33:34,630 [7] INFO  Umbraco.Web.UmbracoModule - [Thread 8] Setting OriginalRequestUrl: www.dev3.webteam.berkshire.nhs.uk:80/umbraco
+2015-07-22 02:33:34,710 [7] INFO  umbraco.content - [Thread 8] Loading content from disk cache...
+2015-07-22 02:33:35,225 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-07-22 02:33:35,227 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 1ms)
+2015-07-22 02:33:36,600 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-07-22 02:33:36,603 [7] INFO  Umbraco.Core.PluginManager - [Thread 8] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 2ms)
+2015-07-22 02:34:38,278 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-05-23 02:34:38
+2015-07-22 02:36:04,628 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 02:36:04
+2015-07-22 02:37:31,051 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 02:37:31
+2015-07-22 02:38:57,463 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 02:38:57
+2015-07-22 02:40:23,872 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 02:40:23
+2015-07-22 02:41:50,288 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 02:41:50
+2015-07-22 02:43:16,701 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 02:43:16
+2015-07-22 02:44:43,115 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 02:44:43
+2015-07-22 02:46:09,524 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 02:46:09
+2015-07-22 02:47:35,942 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 02:47:35
+2015-07-22 02:49:02,349 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 02:49:02
+2015-07-22 02:50:28,766 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 02:50:28
+2015-07-22 02:51:55,176 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 02:51:55
+2015-07-22 02:53:21,581 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 02:53:21
+2015-07-22 02:54:47,993 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 02:54:47
+2015-07-22 02:56:14,400 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 02:56:14
+2015-07-22 02:57:40,794 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 02:57:40
+2015-07-22 02:59:07,206 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 02:59:07
+2015-07-22 03:00:33,606 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 03:00:33
+2015-07-22 03:02:00,011 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 03:02:00
+2015-07-22 03:03:26,415 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 03:03:26
+2015-07-22 03:04:52,816 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 03:04:52
+2015-07-22 03:06:19,219 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 03:06:19
+2015-07-22 03:07:45,621 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 03:07:45
+2015-07-22 03:09:12,029 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 03:09:12
+2015-07-22 03:10:38,430 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 03:10:38
+2015-07-22 03:12:04,839 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 03:12:04
+2015-07-22 03:13:31,240 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 03:13:31
+2015-07-22 03:14:57,645 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 03:14:57
+2015-07-22 03:16:24,046 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 03:16:24
+2015-07-22 03:17:50,454 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 03:17:50
+2015-07-22 03:19:16,854 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 03:19:16
+2015-07-22 03:20:43,262 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 03:20:43
+2015-07-22 03:22:09,669 [7] INFO  umbraco.BusinessLogic.Log - [Thread 76] Log scrubbed.  Removed all items older than 2015-05-23 03:22:09
+2015-07-22 03:23:36,071 [7] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2015-05-23 03:23:36
+2015-07-22 03:25:02,471 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 03:25:02
+2015-07-22 03:26:28,878 [7] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2015-05-23 03:26:28
+2015-07-22 03:27:55,282 [7] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2015-05-23 03:27:55
+2015-07-22 03:29:21,689 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 03:29:21
+2015-07-22 03:30:48,093 [7] INFO  umbraco.BusinessLogic.Log - [Thread 72] Log scrubbed.  Removed all items older than 2015-05-23 03:30:48
+2015-07-22 03:32:14,496 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 03:32:14
+2015-07-22 03:33:40,899 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 03:33:40
+2015-07-22 03:35:07,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 68] Log scrubbed.  Removed all items older than 2015-05-23 03:35:07
+2015-07-22 03:36:33,709 [7] INFO  umbraco.BusinessLogic.Log - [Thread 68] Log scrubbed.  Removed all items older than 2015-05-23 03:36:33
+2015-07-22 03:38:00,107 [7] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2015-05-23 03:38:00
+2015-07-22 03:39:26,512 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 03:39:26
+2015-07-22 03:40:52,920 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 03:40:52
+2015-07-22 03:42:19,354 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 03:42:19
+2015-07-22 03:43:45,785 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 03:43:45
+2015-07-22 03:45:12,262 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 03:45:12
+2015-07-22 03:46:38,660 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 03:46:38
+2015-07-22 03:48:05,084 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 03:48:05
+2015-07-22 03:49:31,509 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 03:49:31
+2015-07-22 03:50:57,924 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 03:50:57
+2015-07-22 03:52:24,333 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 03:52:24
+2015-07-22 03:53:50,752 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 03:53:50
+2015-07-22 03:55:17,159 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 03:55:17
+2015-07-22 03:56:43,572 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 03:56:43
+2015-07-22 03:58:09,989 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 03:58:09
+2015-07-22 03:59:36,398 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 03:59:36
+2015-07-22 04:01:02,810 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 04:01:02
+2015-07-22 04:02:29,224 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 04:02:29
+2015-07-22 04:03:55,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 04:03:55
+2015-07-22 04:05:22,048 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 04:05:22
+2015-07-22 04:06:48,458 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 04:06:48
+2015-07-22 04:08:14,871 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 04:08:14
+2015-07-22 04:09:41,286 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 04:09:41
+2015-07-22 04:11:07,709 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 04:11:07
+2015-07-22 04:12:34,110 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 04:12:34
+2015-07-22 04:14:00,521 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 04:14:00
+2015-07-22 04:15:26,936 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 04:15:26
+2015-07-22 04:16:53,346 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 04:16:53
+2015-07-22 04:18:19,764 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 04:18:19
+2015-07-22 04:19:46,175 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 04:19:46
+2015-07-22 04:21:12,587 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 04:21:12
+2015-07-22 04:22:39,000 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 04:22:38
+2015-07-22 04:24:05,412 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 04:24:05
+2015-07-22 04:25:31,825 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 04:25:31
+2015-07-22 04:26:58,240 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 04:26:58
+2015-07-22 04:28:24,650 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 04:28:24
+2015-07-22 04:29:51,063 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 04:29:51
+2015-07-22 04:31:17,476 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 04:31:17
+2015-07-22 04:32:43,891 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 04:32:43
+2015-07-22 04:34:10,304 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 04:34:10
+2015-07-22 04:35:36,713 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 04:35:36
+2015-07-22 04:37:03,126 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 04:37:03
+2015-07-22 04:38:29,542 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 04:38:29
+2015-07-22 04:39:55,954 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-05-23 04:39:55
+2015-07-22 04:41:22,365 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 04:41:22
+2015-07-22 04:42:48,783 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 04:42:48
+2015-07-22 04:44:15,191 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 04:44:15
+2015-07-22 04:45:41,599 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 04:45:41
+2015-07-22 04:47:08,019 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 04:47:08
+2015-07-22 04:48:34,431 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 04:48:34
+2015-07-22 04:50:00,430 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 04:50:00
+2015-07-22 04:51:25,934 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 04:51:25
+2015-07-22 04:52:51,420 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 04:52:51
+2015-07-22 04:54:16,917 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 04:54:16
+2015-07-22 04:55:42,971 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 04:55:42
+2015-07-22 04:57:09,043 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 04:57:09
+2015-07-22 04:58:35,106 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 04:58:35
+2015-07-22 05:00:01,270 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 05:00:01
+2015-07-22 05:01:27,544 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-05-23 05:01:27
+2015-07-22 05:02:53,809 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 05:02:53
+2015-07-22 05:04:20,081 [7] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2015-05-23 05:04:20
+2015-07-22 05:05:46,425 [7] INFO  umbraco.BusinessLogic.Log - [Thread 31] Log scrubbed.  Removed all items older than 2015-05-23 05:05:46
+2015-07-22 05:07:12,768 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 05:07:12
+2015-07-22 05:08:39,113 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 05:08:39
+2015-07-22 05:10:05,473 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 05:10:05
+2015-07-22 05:11:31,839 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 05:11:31
+2015-07-22 05:12:58,205 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 05:12:58
+2015-07-22 05:14:24,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 05:14:24
+2015-07-22 05:15:50,984 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:15:50
+2015-07-22 05:17:17,365 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 05:17:17
+2015-07-22 05:18:43,734 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:18:43
+2015-07-22 05:20:10,171 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:20:10
+2015-07-22 05:21:36,495 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:21:36
+2015-07-22 05:23:02,882 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 05:23:02
+2015-07-22 05:24:29,252 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 05:24:29
+2015-07-22 05:25:55,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 05:25:55
+2015-07-22 05:27:22,011 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:27:22
+2015-07-22 05:28:48,383 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 05:28:48
+2015-07-22 05:30:14,768 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:30:14
+2015-07-22 05:31:41,159 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 05:31:41
+2015-07-22 05:33:07,547 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 05:33:07
+2015-07-22 05:34:33,932 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 05:34:33
+2015-07-22 05:36:00,316 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 05:36:00
+2015-07-22 05:37:26,698 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 05:37:26
+2015-07-22 05:38:53,095 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 05:38:53
+2015-07-22 05:40:19,474 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 05:40:19
+2015-07-22 05:41:45,864 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 05:41:45
+2015-07-22 05:43:12,249 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 05:43:12
+2015-07-22 05:44:38,638 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 05:44:38
+2015-07-22 05:46:05,028 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 05:46:05
+2015-07-22 05:47:31,413 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 05:47:31
+2015-07-22 05:48:57,798 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 05:48:57
+2015-07-22 05:50:24,186 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 05:50:24
+2015-07-22 05:51:50,572 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 05:51:50
+2015-07-22 05:53:16,958 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 05:53:16
+2015-07-22 05:54:43,344 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 05:54:43
+2015-07-22 05:56:09,728 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 05:56:09
+2015-07-22 05:57:36,153 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 05:57:36
+2015-07-22 05:59:02,755 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 05:59:02
+2015-07-22 06:00:29,359 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 06:00:29
+2015-07-22 06:01:55,962 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 06:01:55
+2015-07-22 06:03:22,470 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 06:03:22
+2015-07-22 06:04:48,935 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 06:04:48
+2015-07-22 06:06:15,395 [7] INFO  umbraco.BusinessLogic.Log - [Thread 63] Log scrubbed.  Removed all items older than 2015-05-23 06:06:15
+2015-07-22 06:07:41,857 [7] INFO  umbraco.BusinessLogic.Log - [Thread 78] Log scrubbed.  Removed all items older than 2015-05-23 06:07:41
+2015-07-22 06:09:08,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 06:09:08
+2015-07-22 06:10:34,698 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 06:10:34
+2015-07-22 06:12:01,121 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 06:12:01
+2015-07-22 06:13:27,522 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 06:13:27
+2015-07-22 06:14:53,915 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 06:14:53
+2015-07-22 06:16:20,313 [7] INFO  umbraco.BusinessLogic.Log - [Thread 78] Log scrubbed.  Removed all items older than 2015-05-23 06:16:20
+2015-07-22 06:17:46,710 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 06:17:46
+2015-07-22 06:19:13,101 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 06:19:13
+2015-07-22 06:20:39,501 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 06:20:39
+2015-07-22 06:22:05,893 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 06:22:05
+2015-07-22 06:23:32,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 72] Log scrubbed.  Removed all items older than 2015-05-23 06:23:32
+2015-07-22 06:24:58,670 [7] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2015-05-23 06:24:58
+2015-07-22 06:26:25,055 [7] INFO  umbraco.BusinessLogic.Log - [Thread 72] Log scrubbed.  Removed all items older than 2015-05-23 06:26:25
+2015-07-22 06:27:51,443 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 06:27:51
+2015-07-22 06:29:17,826 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 06:29:17
+2015-07-22 06:30:44,225 [7] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2015-05-23 06:30:44
+2015-07-22 06:32:10,603 [7] INFO  umbraco.BusinessLogic.Log - [Thread 67] Log scrubbed.  Removed all items older than 2015-05-23 06:32:10
+2015-07-22 06:33:36,984 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 06:33:36
+2015-07-22 06:35:03,380 [7] INFO  umbraco.BusinessLogic.Log - [Thread 71] Log scrubbed.  Removed all items older than 2015-05-23 06:35:03
+2015-07-22 06:36:29,763 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 06:36:29
+2015-07-22 06:37:56,147 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 06:37:56
+2015-07-22 06:39:22,533 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 06:39:22
+2015-07-22 06:40:48,920 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 06:40:48
+2015-07-22 06:42:15,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 06:42:15
+2015-07-22 06:43:41,695 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 06:43:41
+2015-07-22 06:45:08,087 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 06:45:08
+2015-07-22 06:46:34,491 [7] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2015-05-23 06:46:34
+2015-07-22 06:48:00,863 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 06:48:00
+2015-07-22 06:49:27,241 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 06:49:27
+2015-07-22 06:50:53,627 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 06:50:53
+2015-07-22 06:52:20,014 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 06:52:20
+2015-07-22 06:53:46,404 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 06:53:46
+2015-07-22 06:55:12,788 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 06:55:12
+2015-07-22 06:56:39,178 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 06:56:39
+2015-07-22 06:58:05,564 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 06:58:05
+2015-07-22 06:59:31,950 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 06:59:31
+2015-07-22 07:00:58,337 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 07:00:58
+2015-07-22 07:02:24,720 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 07:02:24
+2015-07-22 07:03:51,113 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 07:03:51
+2015-07-22 07:05:17,498 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 07:05:17
+2015-07-22 07:06:43,989 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 07:06:43
+2015-07-22 07:08:10,569 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 07:08:10
+2015-07-22 07:09:37,143 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 07:09:37
+2015-07-22 07:11:03,707 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 07:11:03
+2015-07-22 07:12:30,165 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 07:12:30
+2015-07-22 07:13:56,618 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 07:13:56
+2015-07-22 07:15:23,081 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 07:15:23
+2015-07-22 07:16:49,514 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 07:16:49
+2015-07-22 07:18:15,925 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 07:18:15
+2015-07-22 07:19:42,354 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 07:19:42
+2015-07-22 07:21:08,769 [7] INFO  umbraco.BusinessLogic.Log - [Thread 82] Log scrubbed.  Removed all items older than 2015-05-23 07:21:08
+2015-07-22 07:22:35,176 [7] INFO  umbraco.BusinessLogic.Log - [Thread 82] Log scrubbed.  Removed all items older than 2015-05-23 07:22:35
+2015-07-22 07:24:01,584 [7] INFO  umbraco.BusinessLogic.Log - [Thread 81] Log scrubbed.  Removed all items older than 2015-05-23 07:24:01
+2015-07-22 07:25:27,985 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 07:25:27
+2015-07-22 07:26:54,384 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 07:26:54
+2015-07-22 07:28:20,776 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 07:28:20
+2015-07-22 07:29:47,172 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 07:29:47
+2015-07-22 07:31:13,568 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 07:31:13
+2015-07-22 07:32:39,966 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 07:32:39
+2015-07-22 07:34:06,360 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 07:34:06
+2015-07-22 07:35:32,762 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 07:35:32
+2015-07-22 07:36:59,150 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 07:36:59
+2015-07-22 07:38:25,547 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 07:38:25
+2015-07-22 07:39:51,946 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 07:39:51
+2015-07-22 07:41:18,338 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 07:41:18
+2015-07-22 07:42:44,735 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 07:42:44
+2015-07-22 07:44:11,130 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 07:44:11
+2015-07-22 07:45:37,538 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 07:45:37
+2015-07-22 07:47:03,934 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 07:47:03
+2015-07-22 07:48:30,330 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 07:48:30
+2015-07-22 07:49:56,727 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 07:49:56
+2015-07-22 07:51:23,121 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 07:51:23
+2015-07-22 07:52:49,516 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 07:52:49
+2015-07-22 07:54:15,906 [7] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2015-05-23 07:54:15
+2015-07-22 07:55:42,307 [7] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2015-05-23 07:55:42
+2015-07-22 07:57:08,699 [7] INFO  umbraco.BusinessLogic.Log - [Thread 63] Log scrubbed.  Removed all items older than 2015-05-23 07:57:08
+2015-07-22 07:58:35,098 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 07:58:35
+2015-07-22 08:00:01,489 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 08:00:01
+2015-07-22 08:01:27,890 [7] INFO  umbraco.BusinessLogic.Log - [Thread 63] Log scrubbed.  Removed all items older than 2015-05-23 08:01:27
+2015-07-22 08:02:54,282 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 08:02:54
+2015-07-22 08:04:20,677 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 08:04:20
+2015-07-22 08:05:47,076 [7] INFO  umbraco.BusinessLogic.Log - [Thread 76] Log scrubbed.  Removed all items older than 2015-05-23 08:05:47
+2015-07-22 08:07:13,467 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 08:07:13
+2015-07-22 08:08:39,866 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 08:08:39
+2015-07-22 08:10:06,261 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 08:10:06
+2015-07-22 08:11:32,655 [7] INFO  umbraco.BusinessLogic.Log - [Thread 71] Log scrubbed.  Removed all items older than 2015-05-23 08:11:32
+2015-07-22 08:12:59,049 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 08:12:59
+2015-07-22 08:14:25,489 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 08:14:25
+2015-07-22 08:15:51,992 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 08:15:51
+2015-07-22 08:17:18,500 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 08:17:18
+2015-07-22 08:18:45,003 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 08:18:44
+2015-07-22 08:20:11,452 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 08:20:11
+2015-07-22 08:21:37,898 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 08:21:37
+2015-07-22 08:23:04,336 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 08:23:04
+2015-07-22 08:24:30,763 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 08:24:30
+2015-07-22 08:25:57,171 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 08:25:57
+2015-07-22 08:27:23,589 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 08:27:23
+2015-07-22 08:28:50,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 08:28:49
+2015-07-22 08:30:16,401 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 08:30:16
+2015-07-22 08:31:42,809 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 08:31:42
+2015-07-22 08:33:09,211 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 08:33:09
+2015-07-22 08:34:35,608 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 08:34:35
+2015-07-22 08:36:02,011 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 08:36:02
+2015-07-22 08:37:28,404 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 08:37:28
+2015-07-22 08:38:54,800 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 08:38:54
+2015-07-22 08:40:21,185 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 08:40:21
+2015-07-22 08:41:47,588 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 08:41:47
+2015-07-22 08:43:13,983 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 08:43:13
+2015-07-22 08:44:40,379 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 08:44:40
+2015-07-22 08:46:06,775 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 08:46:06
+2015-07-22 08:47:33,170 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 08:47:33
+2015-07-22 08:48:59,561 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 08:48:59
+2015-07-22 08:50:25,962 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 08:50:25
+2015-07-22 08:51:52,352 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 08:51:52
+2015-07-22 08:53:18,748 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 08:53:18
+2015-07-22 08:54:45,149 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 08:54:45
+2015-07-22 08:56:11,543 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 08:56:11
+2015-07-22 08:57:37,936 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 08:57:37
+2015-07-22 08:59:04,333 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 08:59:04
+2015-07-22 09:00:30,729 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 09:00:30
+2015-07-22 09:01:57,121 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 09:01:57
+2015-07-22 09:03:23,521 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 09:03:23
+2015-07-22 09:04:49,916 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 09:04:49
+2015-07-22 09:06:16,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 09:06:16
+2015-07-22 09:07:42,704 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 09:07:42
+2015-07-22 09:09:09,099 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 09:09:09
+2015-07-22 09:10:35,494 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 09:10:35
+2015-07-22 09:12:01,888 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 09:12:01
+2015-07-22 09:13:28,287 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 09:13:28
+2015-07-22 09:14:54,682 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 09:14:54
+2015-07-22 09:16:21,080 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 09:16:21
+2015-07-22 09:17:47,471 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 09:17:47
+2015-07-22 09:19:13,876 [7] INFO  umbraco.BusinessLogic.Log - [Thread 74] Log scrubbed.  Removed all items older than 2015-05-23 09:19:13
+2015-07-22 09:20:40,262 [7] INFO  umbraco.BusinessLogic.Log - [Thread 74] Log scrubbed.  Removed all items older than 2015-05-23 09:20:40
+2015-07-22 09:22:06,651 [7] INFO  umbraco.BusinessLogic.Log - [Thread 81] Log scrubbed.  Removed all items older than 2015-05-23 09:22:06
+2015-07-22 09:23:33,053 [7] INFO  umbraco.BusinessLogic.Log - [Thread 74] Log scrubbed.  Removed all items older than 2015-05-23 09:23:33
+2015-07-22 09:24:59,451 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 09:24:59
+2015-07-22 09:26:25,847 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 09:26:25
+2015-07-22 09:27:52,242 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 09:27:52
+2015-07-22 09:29:18,636 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 09:29:18
+2015-07-22 09:30:45,033 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 09:30:45
+2015-07-22 09:32:11,430 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 09:32:11
+2015-07-22 09:33:37,823 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 09:33:37
+2015-07-22 09:35:04,219 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 09:35:04
+2015-07-22 09:36:30,618 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 09:36:30
+2015-07-22 09:37:57,012 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 09:37:56
+2015-07-22 09:39:23,405 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 09:39:23
+2015-07-22 09:40:49,790 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 09:40:49
+2015-07-22 09:42:16,197 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 09:42:16
+2015-07-22 09:43:42,591 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 09:43:42
+2015-07-22 09:45:08,987 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:45:08
+2015-07-22 09:46:35,382 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:46:35
+2015-07-22 09:48:01,776 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:48:01
+2015-07-22 09:49:28,172 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:49:28
+2015-07-22 09:50:54,567 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:50:54
+2015-07-22 09:52:20,963 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:52:20
+2015-07-22 09:53:47,356 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 09:53:47
+2015-07-22 09:55:13,758 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 09:55:13
+2015-07-22 09:56:40,152 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 09:56:40
+2015-07-22 09:58:06,554 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 09:58:06
+2015-07-22 09:59:32,939 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 09:59:32
+2015-07-22 10:00:59,337 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 10:00:59
+2015-07-22 10:02:25,725 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 10:02:25
+2015-07-22 10:03:52,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 10:03:52
+2015-07-22 10:05:18,516 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 10:05:18
+2015-07-22 10:06:44,909 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 10:06:44
+2015-07-22 10:08:11,307 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 10:08:11
+2015-07-22 10:09:37,708 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 10:09:37
+2015-07-22 10:11:04,096 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 10:11:04
+2015-07-22 10:12:30,498 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 10:12:30
+2015-07-22 10:13:56,895 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 10:13:56
+2015-07-22 10:15:23,289 [7] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2015-05-23 10:15:23
+2015-07-22 10:16:49,677 [7] INFO  umbraco.BusinessLogic.Log - [Thread 68] Log scrubbed.  Removed all items older than 2015-05-23 10:16:49
+2015-07-22 10:18:16,073 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 10:18:16
+2015-07-22 10:19:42,472 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 10:19:42
+2015-07-22 10:21:08,868 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 10:21:08
+2015-07-22 10:22:35,262 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 10:22:35
+2015-07-22 10:24:01,668 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 10:24:01
+2015-07-22 10:25:28,046 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 10:25:28
+2015-07-22 10:26:54,451 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 10:26:54
+2015-07-22 10:28:20,861 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 10:28:20
+2015-07-22 10:29:47,242 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 10:29:47
+2015-07-22 10:31:13,756 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 10:31:13
+2015-07-22 10:32:40,381 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 10:32:40
+2015-07-22 10:34:07,003 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 10:34:06
+2015-07-22 10:35:33,609 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 10:35:33
+2015-07-22 10:37:00,085 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 10:37:00
+2015-07-22 10:38:26,554 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 10:38:26
+2015-07-22 10:39:53,029 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 10:39:53
+2015-07-22 10:41:19,479 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 10:41:19
+2015-07-22 10:42:45,902 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 10:42:45
+2015-07-22 10:44:12,335 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 10:44:12
+2015-07-22 10:45:38,776 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 10:45:38
+2015-07-22 10:47:05,177 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 10:47:05
+2015-07-22 10:48:31,590 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 10:48:31
+2015-07-22 10:49:58,000 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 10:49:57
+2015-07-22 10:51:24,406 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 10:51:24
+2015-07-22 10:52:50,808 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 10:52:50
+2015-07-22 10:54:17,214 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 10:54:17
+2015-07-22 10:55:43,617 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 10:55:43
+2015-07-22 10:57:10,019 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 10:57:10
+2015-07-22 10:58:36,429 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 10:58:36
+2015-07-22 11:00:02,833 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 11:00:02
+2015-07-22 11:01:29,232 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 11:01:29
+2015-07-22 11:02:55,639 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 11:02:55
+2015-07-22 11:04:22,039 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 11:04:22
+2015-07-22 11:05:48,448 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 11:05:48
+2015-07-22 11:07:14,842 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 11:07:14
+2015-07-22 11:08:41,357 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 11:08:41
+2015-07-22 11:10:07,629 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 11:10:07
+2015-07-22 11:11:34,032 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 11:11:34
+2015-07-22 11:13:00,423 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 11:13:00
+2015-07-22 11:14:26,809 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 11:14:26
+2015-07-22 11:15:53,210 [7] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2015-05-23 11:15:53
+2015-07-22 11:17:19,610 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 11:17:19
+2015-07-22 11:18:46,000 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 11:18:45
+2015-07-22 11:20:12,395 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 11:20:12
+2015-07-22 11:21:38,821 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 11:21:38
+2015-07-22 11:23:05,203 [7] INFO  umbraco.BusinessLogic.Log - [Thread 80] Log scrubbed.  Removed all items older than 2015-05-23 11:23:05
+2015-07-22 11:24:31,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 11:24:31
+2015-07-22 11:25:57,996 [7] INFO  umbraco.BusinessLogic.Log - [Thread 80] Log scrubbed.  Removed all items older than 2015-05-23 11:25:57
+2015-07-22 11:27:24,388 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 11:27:24
+2015-07-22 11:28:50,778 [7] INFO  umbraco.BusinessLogic.Log - [Thread 81] Log scrubbed.  Removed all items older than 2015-05-23 11:28:50
+2015-07-22 11:30:17,183 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 11:30:17
+2015-07-22 11:31:43,578 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 11:31:43
+2015-07-22 11:33:09,993 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 11:33:09
+2015-07-22 11:34:36,367 [7] INFO  umbraco.BusinessLogic.Log - [Thread 80] Log scrubbed.  Removed all items older than 2015-05-23 11:34:36
+2015-07-22 11:36:02,758 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 11:36:02
+2015-07-22 11:37:29,164 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 11:37:29
+2015-07-22 11:38:55,552 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 11:38:55
+2015-07-22 11:40:21,945 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 11:40:21
+2015-07-22 11:41:48,342 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 11:41:48
+2015-07-22 11:43:14,734 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 11:43:14
+2015-07-22 11:44:41,131 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 11:44:41
+2015-07-22 11:46:07,527 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 11:46:07
+2015-07-22 11:47:33,944 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 11:47:33
+2015-07-22 11:49:00,336 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 11:49:00
+2015-07-22 11:50:26,736 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 11:50:26
+2015-07-22 11:51:53,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 11:51:53
+2015-07-22 11:53:19,527 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 11:53:19
+2015-07-22 11:54:45,918 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 11:54:45
+2015-07-22 11:56:12,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 11:56:12
+2015-07-22 11:57:01,925 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 30] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 11:57:38,709 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 11:57:38
+2015-07-22 11:58:01,483 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 5] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 11:59:01,474 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 38] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 11:59:05,108 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 11:59:05
+2015-07-22 12:00:01,502 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 30] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:00:15,390 [7] ERROR Umbraco.Web.Scheduling.KeepAlive - [Thread 38] Error in ping. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at Umbraco.Web.Scheduling.KeepAlive.Start(ApplicationContext appContext, IUmbracoSettingsSection settings)
+2015-07-22 12:00:31,499 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 12:00:31
+2015-07-22 12:01:01,500 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 23] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:01:57,894 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:01:57
+2015-07-22 12:02:01,513 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 23] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:03:01,516 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 25] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:03:24,287 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 12:03:24
+2015-07-22 12:04:01,509 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 45] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:04:50,698 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 12:04:50
+2015-07-22 12:05:01,522 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 38] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:05:15,337 [7] ERROR Umbraco.Web.Scheduling.KeepAlive - [Thread 25] Error in ping. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at Umbraco.Web.Scheduling.KeepAlive.Start(ApplicationContext appContext, IUmbracoSettingsSection settings)
+2015-07-22 12:06:01,526 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 45] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:06:17,087 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 12:06:17
+2015-07-22 12:07:01,520 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 34] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:07:43,470 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 12:07:43
+2015-07-22 12:08:01,640 [7] ERROR Umbraco.Web.Scheduling.ScheduledPublishing - [Thread 34] An error occurred with the scheduled publishing. The base url used in the request was: http://www.dev3.webteam.berkshire.nhs.uk:80/umbraco/, see http://our.umbraco.org/documentation/Using-Umbraco/Config-files/umbracoSettings/#ScheduledTasks documentation for details on setting a baseUrl if this is in error
+System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 172.19.27.10:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at Umbraco.Web.Scheduling.ScheduledPublishing.Run()
+2015-07-22 12:09:09,876 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 12:09:09
+2015-07-22 12:10:36,270 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 12:10:36
+2015-07-22 12:12:02,663 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 12:12:02
+2015-07-22 12:13:29,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 12:13:29
+2015-07-22 12:14:55,450 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 12:14:55
+2015-07-22 12:16:22,226 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 12:16:21
+2015-07-22 12:17:48,290 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 12:17:48
+2015-07-22 12:19:14,670 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 12:19:14
+2015-07-22 12:20:41,064 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 12:20:41
+2015-07-22 12:22:07,463 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 12:22:07
+2015-07-22 12:23:33,860 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 12:23:33
+2015-07-22 12:25:00,252 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 12:25:00
+2015-07-22 12:26:26,763 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 12:26:26
+2015-07-22 12:27:53,059 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 12:27:53
+2015-07-22 12:29:19,441 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 12:29:19
+2015-07-22 12:30:45,834 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 12:30:45
+2015-07-22 12:32:12,224 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 12:32:12
+2015-07-22 12:33:38,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 12:33:38
+2015-07-22 12:35:05,015 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 12:35:05
+2015-07-22 12:36:31,416 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 12:36:31
+2015-07-22 12:37:57,810 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 12:37:57
+2015-07-22 12:39:24,198 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 12:39:24
+2015-07-22 12:40:50,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 12:40:50
+2015-07-22 12:42:16,998 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 12:42:16
+2015-07-22 12:43:43,405 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:43:43
+2015-07-22 12:45:09,781 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:45:09
+2015-07-22 12:46:36,184 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:46:36
+2015-07-22 12:48:02,696 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:48:02
+2015-07-22 12:49:29,281 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 12:49:29
+2015-07-22 12:50:55,875 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 12:50:55
+2015-07-22 12:52:22,463 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:52:22
+2015-07-22 12:53:48,938 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 12:53:48
+2015-07-22 12:55:15,409 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 12:55:15
+2015-07-22 12:56:41,880 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 12:56:41
+2015-07-22 12:58:08,328 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 12:58:08
+2015-07-22 12:59:34,763 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 12:59:34
+2015-07-22 13:01:01,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 13:01:01
+2015-07-22 13:02:27,607 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 13:02:27
+2015-07-22 13:03:54,072 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 13:03:54
+2015-07-22 13:05:20,471 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 13:05:20
+2015-07-22 13:06:46,882 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 13:06:46
+2015-07-22 13:08:13,293 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 13:08:13
+2015-07-22 13:09:39,696 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 13:09:39
+2015-07-22 13:11:06,095 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 13:11:06
+2015-07-22 13:12:32,498 [7] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2015-05-23 13:12:32
+2015-07-22 13:13:58,907 [7] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2015-05-23 13:13:58
+2015-07-22 13:15:25,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 13:15:25
+2015-07-22 13:16:51,715 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-05-23 13:16:51
+2015-07-22 13:18:18,126 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 13:18:18
+2015-07-22 13:19:44,525 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 13:19:44
+2015-07-22 13:21:10,941 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 13:21:10
+2015-07-22 13:22:37,334 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 13:22:37
+2015-07-22 13:24:03,747 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 13:24:03
+2015-07-22 13:25:30,142 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 13:25:30
+2015-07-22 13:26:56,541 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 13:26:56
+2015-07-22 13:28:22,948 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 13:28:22
+2015-07-22 13:29:49,347 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 13:29:49
+2015-07-22 13:31:15,759 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 13:31:15
+2015-07-22 13:32:42,157 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 13:32:42
+2015-07-22 13:34:08,564 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 13:34:08
+2015-07-22 13:35:34,968 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 13:35:34
+2015-07-22 13:37:01,375 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 13:37:01
+2015-07-22 13:38:27,773 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 13:38:27
+2015-07-22 13:39:54,174 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 13:39:54
+2015-07-22 13:41:20,584 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 13:41:20
+2015-07-22 13:42:46,989 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 13:42:46
+2015-07-22 13:44:13,390 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 13:44:13
+2015-07-22 13:45:39,795 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 13:45:39
+2015-07-22 13:47:06,202 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 13:47:06
+2015-07-22 13:48:32,595 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 13:48:32
+2015-07-22 13:49:59,018 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 13:49:58
+2015-07-22 13:51:25,414 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 13:51:25
+2015-07-22 13:52:51,817 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 13:52:51
+2015-07-22 13:54:18,221 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 13:54:18
+2015-07-22 13:55:44,619 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 13:55:44
+2015-07-22 13:57:11,028 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 13:57:11
+2015-07-22 13:58:37,435 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 13:58:37
+2015-07-22 14:00:04,051 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 14:00:03
+2015-07-22 14:01:30,382 [7] INFO  umbraco.BusinessLogic.Log - [Thread 45] Log scrubbed.  Removed all items older than 2015-05-23 14:01:30
+2015-07-22 14:02:56,785 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 14:02:56
+2015-07-22 14:04:23,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 14:04:23
+2015-07-22 14:05:49,592 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 14:05:49
+2015-07-22 14:07:15,996 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 14:07:15
+2015-07-22 14:08:42,399 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 14:08:42
+2015-07-22 14:10:08,803 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 14:10:08
+2015-07-22 14:11:35,216 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 14:11:35
+2015-07-22 14:13:01,613 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 14:13:01
+2015-07-22 14:14:28,017 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 14:14:28
+2015-07-22 14:15:54,421 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 14:15:54
+2015-07-22 14:17:20,825 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 14:17:20
+2015-07-22 14:18:47,236 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 14:18:47
+2015-07-22 14:20:13,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 14:20:13
+2015-07-22 14:21:40,029 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 14:21:40
+2015-07-22 14:23:06,442 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 14:23:06
+2015-07-22 14:24:32,849 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 14:24:32
+2015-07-22 14:25:59,248 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 14:25:59
+2015-07-22 14:27:25,652 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 14:27:25
+2015-07-22 14:28:52,056 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 14:28:52
+2015-07-22 14:30:18,463 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 14:30:18
+2015-07-22 14:31:44,864 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 14:31:44
+2015-07-22 14:33:11,270 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 14:33:11
+2015-07-22 14:34:37,666 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 14:34:37
+2015-07-22 14:36:04,116 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 14:36:04
+2015-07-22 14:37:30,476 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 14:37:30
+2015-07-22 14:38:56,885 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 14:38:56
+2015-07-22 14:40:23,284 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 14:40:23
+2015-07-22 14:41:49,688 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-05-23 14:41:49
+2015-07-22 14:43:16,098 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 14:43:16
+2015-07-22 14:44:42,491 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 14:44:42
+2015-07-22 14:46:08,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 14:46:08
+2015-07-22 14:47:35,309 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-05-23 14:47:35
+2015-07-22 14:49:01,715 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 14:49:01
+2015-07-22 14:50:28,117 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 14:50:28
+2015-07-22 14:51:54,527 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 14:51:54
+2015-07-22 14:53:20,920 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 14:53:20
+2015-07-22 14:54:47,323 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-05-23 14:54:47
+2015-07-22 14:56:13,725 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 14:56:13
+2015-07-22 14:57:40,130 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 14:57:40
+2015-07-22 14:59:06,532 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 14:59:06
+2015-07-22 15:00:32,941 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:00:32
+2015-07-22 15:01:59,353 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:01:59
+2015-07-22 15:03:25,755 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 15:03:25
+2015-07-22 15:04:52,220 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 15:04:52
+2015-07-22 15:06:18,696 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:06:18
+2015-07-22 15:07:45,173 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:07:45
+2015-07-22 15:09:11,630 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 15:09:11
+2015-07-22 15:10:38,061 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 15:10:38
+2015-07-22 15:12:04,486 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 15:12:04
+2015-07-22 15:13:30,917 [7] INFO  umbraco.BusinessLogic.Log - [Thread 40] Log scrubbed.  Removed all items older than 2015-05-23 15:13:30
+2015-07-22 15:14:57,337 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 15:14:57
+2015-07-22 15:16:23,748 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 15:16:23
+2015-07-22 15:17:50,161 [7] INFO  umbraco.BusinessLogic.Log - [Thread 41] Log scrubbed.  Removed all items older than 2015-05-23 15:17:50
+2015-07-22 15:19:16,565 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:19:16
+2015-07-22 15:20:42,973 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:20:42
+2015-07-22 15:22:09,391 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:22:09
+2015-07-22 15:23:35,787 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 15:23:35
+2015-07-22 15:25:02,189 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 15:25:02
+2015-07-22 15:26:28,584 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 15:26:28
+2015-07-22 15:27:54,988 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 15:27:54
+2015-07-22 15:29:21,402 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 15:29:21
+2015-07-22 15:30:47,805 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 15:30:47
+2015-07-22 15:32:14,208 [7] INFO  umbraco.BusinessLogic.Log - [Thread 25] Log scrubbed.  Removed all items older than 2015-05-23 15:32:14
+2015-07-22 15:33:40,609 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 15:33:40
+2015-07-22 15:35:07,020 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 15:35:07
+2015-07-22 15:36:33,417 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 15:36:33
+2015-07-22 15:37:59,822 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 15:37:59
+2015-07-22 15:39:26,221 [7] INFO  umbraco.BusinessLogic.Log - [Thread 77] Log scrubbed.  Removed all items older than 2015-05-23 15:39:26
+2015-07-22 15:40:52,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 15:40:52
+2015-07-22 15:42:19,036 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 15:42:19
+2015-07-22 15:43:45,441 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 15:43:45
+2015-07-22 15:45:11,836 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 15:45:11
+2015-07-22 15:46:38,248 [7] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-05-23 15:46:38
+2015-07-22 15:48:04,652 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 15:48:04
+2015-07-22 15:49:31,142 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 15:49:31
+2015-07-22 15:50:57,535 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 15:50:57
+2015-07-22 15:52:23,944 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 15:52:23
+2015-07-22 15:53:50,341 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 15:53:50
+2015-07-22 15:55:16,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 15:55:16
+2015-07-22 15:56:43,154 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 15:56:43
+2015-07-22 15:58:09,583 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 15:58:09
+2015-07-22 15:59:36,126 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 15:59:36
+2015-07-22 16:01:02,544 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 16:01:02
+2015-07-22 16:02:28,936 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 16:02:28
+2015-07-22 16:03:55,339 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 16:03:55
+2015-07-22 16:05:21,746 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 16:05:21
+2015-07-22 16:06:48,155 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-05-23 16:06:48
+2015-07-22 16:08:14,551 [7] INFO  umbraco.BusinessLogic.Log - [Thread 76] Log scrubbed.  Removed all items older than 2015-05-23 16:08:14
+2015-07-22 16:09:40,960 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 16:09:40
+2015-07-22 16:11:07,355 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 16:11:07
+2015-07-22 16:12:33,770 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 16:12:33
+2015-07-22 16:14:00,171 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 16:14:00
+2015-07-22 16:15:26,578 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 16:15:26
+2015-07-22 16:16:53,000 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 16:16:52
+2015-07-22 16:18:19,381 [7] INFO  umbraco.BusinessLogic.Log - [Thread 61] Log scrubbed.  Removed all items older than 2015-05-23 16:18:19
+2015-07-22 16:19:45,800 [7] INFO  umbraco.BusinessLogic.Log - [Thread 60] Log scrubbed.  Removed all items older than 2015-05-23 16:19:45
+2015-07-22 16:21:12,202 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 16:21:12
+2015-07-22 16:22:38,631 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 16:22:38
+2015-07-22 16:24:05,015 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:24:05
+2015-07-22 16:25:31,424 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 16:25:31
+2015-07-22 16:26:57,818 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 16:26:57
+2015-07-22 16:28:24,228 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 16:28:24
+2015-07-22 16:29:50,623 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 16:29:50
+2015-07-22 16:31:17,031 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 16:31:17
+2015-07-22 16:32:43,440 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 16:32:43
+2015-07-22 16:34:09,839 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 16:34:09
+2015-07-22 16:35:36,245 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:35:36
+2015-07-22 16:37:02,649 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 16:37:02
+2015-07-22 16:38:29,058 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 16:38:29
+2015-07-22 16:39:55,454 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:39:55
+2015-07-22 16:41:21,863 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:41:21
+2015-07-22 16:42:48,266 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 16:42:48
+2015-07-22 16:44:14,665 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:44:14
+2015-07-22 16:45:41,070 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:45:41
+2015-07-22 16:47:07,485 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 16:47:07
+2015-07-22 16:48:33,886 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 16:48:33
+2015-07-22 16:50:00,285 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 16:50:00
+2015-07-22 16:51:26,691 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 16:51:26
+2015-07-22 16:52:53,095 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:52:53
+2015-07-22 16:54:19,512 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 16:54:19
+2015-07-22 16:55:45,901 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 16:55:45
+2015-07-22 16:57:12,304 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 16:57:12
+2015-07-22 16:58:38,716 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 16:58:38
+2015-07-22 17:00:05,113 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 17:00:05
+2015-07-22 17:01:31,521 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 17:01:31
+2015-07-22 17:02:57,928 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 17:02:57
+2015-07-22 17:04:24,328 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 17:04:24
+2015-07-22 17:05:50,726 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 17:05:50
+2015-07-22 17:07:17,127 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 17:07:17
+2015-07-22 17:08:43,546 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 17:08:43
+2015-07-22 17:10:09,943 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 17:10:09
+2015-07-22 17:11:36,341 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 17:11:36
+2015-07-22 17:13:02,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 17:13:02
+2015-07-22 17:14:29,153 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 17:14:29
+2015-07-22 17:15:55,558 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 17:15:55
+2015-07-22 17:17:21,960 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 17:17:21
+2015-07-22 17:18:48,368 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 17:18:48
+2015-07-22 17:20:14,785 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 17:20:14
+2015-07-22 17:21:41,253 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 17:21:41
+2015-07-22 17:23:07,725 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:23:07
+2015-07-22 17:24:34,198 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 17:24:34
+2015-07-22 17:26:00,643 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 17:26:00
+2015-07-22 17:27:27,076 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 17:27:27
+2015-07-22 17:28:53,502 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 17:28:53
+2015-07-22 17:30:19,929 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 17:30:19
+2015-07-22 17:31:46,346 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 17:31:46
+2015-07-22 17:33:12,757 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 17:33:12
+2015-07-22 17:34:39,169 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:34:39
+2015-07-22 17:36:05,573 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 17:36:05
+2015-07-22 17:37:31,982 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 17:37:31
+2015-07-22 17:38:58,382 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 17:38:58
+2015-07-22 17:40:24,781 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 17:40:24
+2015-07-22 17:41:51,194 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:41:51
+2015-07-22 17:43:17,594 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:43:17
+2015-07-22 17:44:44,000 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 17:44:43
+2015-07-22 17:46:10,403 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:46:10
+2015-07-22 17:47:36,808 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 17:47:36
+2015-07-22 17:49:03,213 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 17:49:03
+2015-07-22 17:50:29,612 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 17:50:29
+2015-07-22 17:51:56,017 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 17:51:56
+2015-07-22 17:53:22,438 [7] INFO  umbraco.BusinessLogic.Log - [Thread 55] Log scrubbed.  Removed all items older than 2015-05-23 17:53:22
+2015-07-22 17:54:48,824 [7] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-05-23 17:54:48
+2015-07-22 17:56:15,233 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:56:15
+2015-07-22 17:57:41,635 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 17:57:41
+2015-07-22 17:59:08,041 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 17:59:08
+2015-07-22 18:00:34,478 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:00:34
+2015-07-22 18:02:00,876 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:02:00
+2015-07-22 18:03:27,282 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 18:03:27
+2015-07-22 18:04:53,681 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 18:04:53
+2015-07-22 18:06:20,087 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 18:06:20
+2015-07-22 18:07:46,494 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 18:07:46
+2015-07-22 18:09:12,900 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:09:12
+2015-07-22 18:10:39,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:10:39
+2015-07-22 18:12:05,701 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 18:12:05
+2015-07-22 18:13:32,112 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 18:13:32
+2015-07-22 18:14:58,516 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 18:14:58
+2015-07-22 18:16:24,913 [7] INFO  umbraco.BusinessLogic.Log - [Thread 64] Log scrubbed.  Removed all items older than 2015-05-23 18:16:24
+2015-07-22 18:17:51,321 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:17:51
+2015-07-22 18:19:17,730 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 18:19:17
+2015-07-22 18:20:44,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 18:20:44
+2015-07-22 18:22:10,528 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 18:22:10
+2015-07-22 18:23:36,935 [7] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2015-05-23 18:23:36
+2015-07-22 18:25:03,344 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 18:25:03
+2015-07-22 18:26:29,746 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 18:26:29
+2015-07-22 18:27:56,147 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 18:27:56
+2015-07-22 18:29:22,556 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 18:29:22
+2015-07-22 18:30:48,967 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 18:30:48
+2015-07-22 18:32:15,359 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 18:32:15
+2015-07-22 18:33:41,764 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 18:33:41
+2015-07-22 18:35:08,173 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 18:35:08
+2015-07-22 18:36:34,576 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-05-23 18:36:34
+2015-07-22 18:38:00,982 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 18:38:00
+2015-07-22 18:39:27,383 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 18:39:27
+2015-07-22 18:40:53,781 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 18:40:53
+2015-07-22 18:42:20,190 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:42:20
+2015-07-22 18:43:46,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 18:43:46
+2015-07-22 18:45:13,000 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 18:45:12
+2015-07-22 18:46:39,400 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 18:46:39
+2015-07-22 18:48:05,808 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 18:48:05
+2015-07-22 18:49:32,212 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 18:49:32
+2015-07-22 18:50:58,614 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 18:50:58
+2015-07-22 18:52:25,012 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 18:52:25
+2015-07-22 18:53:51,418 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 18:53:51
+2015-07-22 18:55:17,826 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 18:55:17
+2015-07-22 18:56:44,231 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 18:56:44
+2015-07-22 18:58:10,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 18:58:10
+2015-07-22 18:59:37,036 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 18:59:37
+2015-07-22 19:01:03,448 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 19:01:03
+2015-07-22 19:02:29,848 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 19:02:29
+2015-07-22 19:03:56,251 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 19:03:56
+2015-07-22 19:05:22,650 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 19:05:22
+2015-07-22 19:06:49,058 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 19:06:49
+2015-07-22 19:08:15,465 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 19:08:15
+2015-07-22 19:09:41,864 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-05-23 19:09:41
+2015-07-22 19:11:08,266 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 19:11:08
+2015-07-22 19:12:34,675 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 19:12:34
+2015-07-22 19:14:01,078 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 19:14:01
+2015-07-22 19:15:27,483 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 19:15:27
+2015-07-22 19:16:53,893 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 19:16:53
+2015-07-22 19:18:20,288 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 19:18:20
+2015-07-22 19:19:46,691 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 19:19:46
+2015-07-22 19:21:13,097 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 19:21:13
+2015-07-22 19:22:39,496 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 19:22:39
+2015-07-22 19:24:05,901 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 19:24:05
+2015-07-22 19:25:32,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 19:25:32
+2015-07-22 19:26:58,708 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 19:26:58
+2015-07-22 19:28:25,123 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 19:28:25
+2015-07-22 19:29:51,521 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 19:29:51
+2015-07-22 19:31:17,930 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 19:31:17
+2015-07-22 19:32:44,335 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 19:32:44
+2015-07-22 19:34:10,744 [7] INFO  umbraco.BusinessLogic.Log - [Thread 51] Log scrubbed.  Removed all items older than 2015-05-23 19:34:10
+2015-07-22 19:35:37,136 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 19:35:37
+2015-07-22 19:37:03,570 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 19:37:03
+2015-07-22 19:38:30,044 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 19:38:30
+2015-07-22 19:39:56,518 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 19:39:56
+2015-07-22 19:41:22,983 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 19:41:22
+2015-07-22 19:42:49,414 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 19:42:49
+2015-07-22 19:44:15,849 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 19:44:15
+2015-07-22 19:45:42,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 19:45:42
+2015-07-22 19:47:08,699 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 19:47:08
+2015-07-22 19:48:35,299 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 19:48:35
+2015-07-22 19:50:01,526 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 19:50:01
+2015-07-22 19:51:27,940 [7] INFO  umbraco.BusinessLogic.Log - [Thread 75] Log scrubbed.  Removed all items older than 2015-05-23 19:51:27
+2015-07-22 19:52:54,342 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 19:52:54
+2015-07-22 19:54:20,746 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-05-23 19:54:20
+2015-07-22 19:55:47,152 [7] INFO  umbraco.BusinessLogic.Log - [Thread 74] Log scrubbed.  Removed all items older than 2015-05-23 19:55:47
+2015-07-22 19:57:13,558 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 19:57:13
+2015-07-22 19:58:39,956 [7] INFO  umbraco.BusinessLogic.Log - [Thread 47] Log scrubbed.  Removed all items older than 2015-05-23 19:58:39
+2015-07-22 20:00:06,373 [7] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-05-23 20:00:06
+2015-07-22 20:01:32,774 [7] INFO  umbraco.BusinessLogic.Log - [Thread 42] Log scrubbed.  Removed all items older than 2015-05-23 20:01:32
+2015-07-22 20:02:59,181 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 20:02:59
+2015-07-22 20:04:25,573 [7] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-05-23 20:04:25
+2015-07-22 20:05:51,981 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 20:05:51
+2015-07-22 20:07:18,385 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 20:07:18
+2015-07-22 20:08:44,791 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 20:08:44
+2015-07-22 20:10:11,189 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 20:10:11
+2015-07-22 20:11:37,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 20:11:37
+2015-07-22 20:13:04,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 20:13:03
+2015-07-22 20:14:30,405 [7] INFO  umbraco.BusinessLogic.Log - [Thread 57] Log scrubbed.  Removed all items older than 2015-05-23 20:14:30
+2015-07-22 20:15:56,807 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 20:15:56
+2015-07-22 20:17:23,217 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 20:17:23
+2015-07-22 20:18:49,617 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 20:18:49
+2015-07-22 20:20:16,018 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 20:20:16
+2015-07-22 20:21:42,430 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 20:21:42
+2015-07-22 20:23:08,831 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 20:23:08
+2015-07-22 20:24:35,233 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 20:24:35
+2015-07-22 20:26:01,637 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 20:26:01
+2015-07-22 20:27:28,042 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 20:27:28
+2015-07-22 20:28:54,447 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 20:28:54
+2015-07-22 20:30:20,862 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 20:30:20
+2015-07-22 20:31:47,255 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 20:31:47
+2015-07-22 20:33:13,653 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 20:33:13
+2015-07-22 20:34:40,062 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 20:34:40
+2015-07-22 20:36:06,468 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 20:36:06
+2015-07-22 20:37:32,877 [7] INFO  umbraco.BusinessLogic.Log - [Thread 71] Log scrubbed.  Removed all items older than 2015-05-23 20:37:32
+2015-07-22 20:38:59,274 [7] INFO  umbraco.BusinessLogic.Log - [Thread 71] Log scrubbed.  Removed all items older than 2015-05-23 20:38:59
+2015-07-22 20:40:25,678 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 20:40:25
+2015-07-22 20:41:52,083 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 20:41:52
+2015-07-22 20:43:18,491 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 20:43:18
+2015-07-22 20:44:44,886 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 20:44:44
+2015-07-22 20:46:11,294 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 20:46:11
+2015-07-22 20:47:37,703 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 20:47:37
+2015-07-22 20:49:04,106 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 20:49:04
+2015-07-22 20:50:30,508 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-05-23 20:50:30
+2015-07-22 20:51:56,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 20:51:56
+2015-07-22 20:53:23,312 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 20:53:23
+2015-07-22 20:54:49,719 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 20:54:49
+2015-07-22 20:56:16,117 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 20:56:16
+2015-07-22 20:57:42,525 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 20:57:42
+2015-07-22 20:59:08,935 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 20:59:08
+2015-07-22 21:00:35,333 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 21:00:35
+2015-07-22 21:02:01,739 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 21:02:01
+2015-07-22 21:03:28,140 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 21:03:28
+2015-07-22 21:04:54,549 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 21:04:54
+2015-07-22 21:06:20,951 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 21:06:20
+2015-07-22 21:07:47,353 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 21:07:47
+2015-07-22 21:09:13,756 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 21:09:13
+2015-07-22 21:10:40,160 [7] INFO  umbraco.BusinessLogic.Log - [Thread 46] Log scrubbed.  Removed all items older than 2015-05-23 21:10:40
+2015-07-22 21:12:06,566 [7] INFO  umbraco.BusinessLogic.Log - [Thread 11] Log scrubbed.  Removed all items older than 2015-05-23 21:12:06
+2015-07-22 21:13:32,974 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 21:13:32
+2015-07-22 21:14:59,379 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 21:14:59
+2015-07-22 21:16:25,786 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 21:16:25
+2015-07-22 21:17:52,183 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 21:17:52
+2015-07-22 21:19:18,593 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 21:19:18
+2015-07-22 21:20:44,989 [7] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-05-23 21:20:44
+2015-07-22 21:22:11,392 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 21:22:11
+2015-07-22 21:23:37,799 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 21:23:37
+2015-07-22 21:25:04,208 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 21:25:04
+2015-07-22 21:26:30,602 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 21:26:30
+2015-07-22 21:27:57,017 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 21:27:57
+2015-07-22 21:29:23,417 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 21:29:23
+2015-07-22 21:30:49,824 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 21:30:49
+2015-07-22 21:32:16,216 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 21:32:16
+2015-07-22 21:33:42,622 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 21:33:42
+2015-07-22 21:35:09,035 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 21:35:09
+2015-07-22 21:36:35,437 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 21:36:35
+2015-07-22 21:38:01,843 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-05-23 21:38:01
+2015-07-22 21:39:28,236 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 21:39:28
+2015-07-22 21:40:54,644 [7] INFO  umbraco.BusinessLogic.Log - [Thread 63] Log scrubbed.  Removed all items older than 2015-05-23 21:40:54
+2015-07-22 21:42:21,055 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 21:42:21
+2015-07-22 21:43:47,455 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 21:43:47
+2015-07-22 21:45:13,853 [7] INFO  umbraco.BusinessLogic.Log - [Thread 67] Log scrubbed.  Removed all items older than 2015-05-23 21:45:13
+2015-07-22 21:46:40,260 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 21:46:40
+2015-07-22 21:48:06,665 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 21:48:06
+2015-07-22 21:49:33,077 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 21:49:33
+2015-07-22 21:50:59,475 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 21:50:59
+2015-07-22 21:52:25,878 [7] INFO  umbraco.BusinessLogic.Log - [Thread 37] Log scrubbed.  Removed all items older than 2015-05-23 21:52:25
+2015-07-22 21:53:52,310 [7] INFO  umbraco.BusinessLogic.Log - [Thread 50] Log scrubbed.  Removed all items older than 2015-05-23 21:53:52
+2015-07-22 21:55:18,793 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 21:55:18
+2015-07-22 21:56:45,269 [7] INFO  umbraco.BusinessLogic.Log - [Thread 52] Log scrubbed.  Removed all items older than 2015-05-23 21:56:45
+2015-07-22 21:58:11,756 [7] INFO  umbraco.BusinessLogic.Log - [Thread 67] Log scrubbed.  Removed all items older than 2015-05-23 21:58:11
+2015-07-22 21:59:38,218 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 21:59:38
+2015-07-22 22:01:04,623 [7] INFO  umbraco.BusinessLogic.Log - [Thread 67] Log scrubbed.  Removed all items older than 2015-05-23 22:01:04
+2015-07-22 22:02:31,046 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 22:02:31
+2015-07-22 22:03:57,473 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 22:03:57
+2015-07-22 22:05:23,892 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 22:05:23
+2015-07-22 22:06:50,298 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 22:06:50
+2015-07-22 22:08:16,709 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 22:08:16
+2015-07-22 22:09:43,115 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 22:09:43
+2015-07-22 22:11:09,526 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 22:11:09
+2015-07-22 22:12:35,934 [7] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-05-23 22:12:35
+2015-07-22 22:14:02,332 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 22:14:02
+2015-07-22 22:15:28,726 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 22:15:28
+2015-07-22 22:16:55,140 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 22:16:55
+2015-07-22 22:18:21,544 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 22:18:21
+2015-07-22 22:19:47,948 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 22:19:47
+2015-07-22 22:21:14,346 [7] INFO  umbraco.BusinessLogic.Log - [Thread 21] Log scrubbed.  Removed all items older than 2015-05-23 22:21:14
+2015-07-22 22:22:40,757 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 22:22:40
+2015-07-22 22:24:07,153 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 22:24:07
+2015-07-22 22:25:33,561 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:25:33
+2015-07-22 22:26:59,978 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 22:26:59
+2015-07-22 22:28:26,372 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:28:26
+2015-07-22 22:29:52,769 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:29:52
+2015-07-22 22:31:19,174 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-05-23 22:31:19
+2015-07-22 22:32:45,577 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 22:32:45
+2015-07-22 22:34:11,991 [7] INFO  umbraco.BusinessLogic.Log - [Thread 76] Log scrubbed.  Removed all items older than 2015-05-23 22:34:11
+2015-07-22 22:35:38,391 [7] INFO  umbraco.BusinessLogic.Log - [Thread 26] Log scrubbed.  Removed all items older than 2015-05-23 22:35:38
+2015-07-22 22:37:04,798 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 22:37:04
+2015-07-22 22:38:31,199 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 22:38:31
+2015-07-22 22:39:57,602 [7] INFO  umbraco.BusinessLogic.Log - [Thread 69] Log scrubbed.  Removed all items older than 2015-05-23 22:39:57
+2015-07-22 22:41:24,012 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-05-23 22:41:23
+2015-07-22 22:42:50,409 [7] INFO  umbraco.BusinessLogic.Log - [Thread 53] Log scrubbed.  Removed all items older than 2015-05-23 22:42:50
+2015-07-22 22:44:16,812 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:44:16
+2015-07-22 22:45:43,219 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:45:43
+2015-07-22 22:47:09,625 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 22:47:09
+2015-07-22 22:48:36,030 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:48:36
+2015-07-22 22:50:02,427 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:50:02
+2015-07-22 22:51:28,835 [7] INFO  umbraco.BusinessLogic.Log - [Thread 58] Log scrubbed.  Removed all items older than 2015-05-23 22:51:28
+2015-07-22 22:52:55,243 [7] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-05-23 22:52:55
+2015-07-22 22:54:21,655 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 22:54:21
+2015-07-22 22:55:48,041 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 22:55:48
+2015-07-22 22:57:14,452 [7] INFO  umbraco.BusinessLogic.Log - [Thread 59] Log scrubbed.  Removed all items older than 2015-05-23 22:57:14
+2015-07-22 22:58:40,853 [7] INFO  umbraco.BusinessLogic.Log - [Thread 34] Log scrubbed.  Removed all items older than 2015-05-23 22:58:40
+2015-07-22 23:00:07,256 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 23:00:07
+2015-07-22 23:01:33,661 [7] INFO  umbraco.BusinessLogic.Log - [Thread 39] Log scrubbed.  Removed all items older than 2015-05-23 23:01:33
+2015-07-22 23:03:00,067 [7] INFO  umbraco.BusinessLogic.Log - [Thread 22] Log scrubbed.  Removed all items older than 2015-05-23 23:03:00
+2015-07-22 23:04:26,473 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 23:04:26
+2015-07-22 23:05:52,872 [7] INFO  umbraco.BusinessLogic.Log - [Thread 49] Log scrubbed.  Removed all items older than 2015-05-23 23:05:52
+2015-07-22 23:07:19,286 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 23:07:19
+2015-07-22 23:08:45,687 [7] INFO  umbraco.BusinessLogic.Log - [Thread 54] Log scrubbed.  Removed all items older than 2015-05-23 23:08:45
+2015-07-22 23:10:12,087 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 23:10:12
+2015-07-22 23:11:38,495 [7] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2015-05-23 23:11:38
+2015-07-22 23:13:04,896 [7] INFO  umbraco.BusinessLogic.Log - [Thread 72] Log scrubbed.  Removed all items older than 2015-05-23 23:13:04
+2015-07-22 23:14:31,300 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 23:14:31
+2015-07-22 23:15:57,703 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 23:15:57
+2015-07-22 23:17:24,109 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 23:17:24
+2015-07-22 23:18:50,505 [7] INFO  umbraco.BusinessLogic.Log - [Thread 71] Log scrubbed.  Removed all items older than 2015-05-23 23:18:50
+2015-07-22 23:20:16,910 [7] INFO  umbraco.BusinessLogic.Log - [Thread 70] Log scrubbed.  Removed all items older than 2015-05-23 23:20:16
+2015-07-22 23:21:43,316 [7] INFO  umbraco.BusinessLogic.Log - [Thread 73] Log scrubbed.  Removed all items older than 2015-05-23 23:21:43
+2015-07-22 23:23:09,724 [7] INFO  umbraco.BusinessLogic.Log - [Thread 67] Log scrubbed.  Removed all items older than 2015-05-23 23:23:09
+2015-07-22 23:24:36,122 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 23:24:36
+2015-07-22 23:26:02,524 [7] INFO  umbraco.BusinessLogic.Log - [Thread 65] Log scrubbed.  Removed all items older than 2015-05-23 23:26:02
+2015-07-22 23:27:28,929 [7] INFO  umbraco.BusinessLogic.Log - [Thread 66] Log scrubbed.  Removed all items older than 2015-05-23 23:27:28
+2015-07-22 23:28:55,333 [7] INFO  umbraco.BusinessLogic.Log - [Thread 44] Log scrubbed.  Removed all items older than 2015-05-23 23:28:55
+2015-07-22 23:30:21,745 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 23:30:21
+2015-07-22 23:31:48,145 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-05-23 23:31:48
+2015-07-22 23:33:14,546 [7] INFO  umbraco.BusinessLogic.Log - [Thread 72] Log scrubbed.  Removed all items older than 2015-05-23 23:33:14
+2015-07-22 23:34:40,958 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 23:34:40
+2015-07-22 23:36:07,360 [7] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-05-23 23:36:07
+2015-07-22 23:37:33,760 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 23:37:33
+2015-07-22 23:39:00,162 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 23:39:00
+2015-07-22 23:40:26,567 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 23:40:26
+2015-07-22 23:41:52,972 [7] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2015-05-23 23:41:52
+2015-07-22 23:43:19,370 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 23:43:19
+2015-07-22 23:44:45,779 [7] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-05-23 23:44:45
+2015-07-22 23:46:12,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 33] Log scrubbed.  Removed all items older than 2015-05-23 23:46:12
+2015-07-22 23:47:38,587 [7] INFO  umbraco.BusinessLogic.Log - [Thread 5] Log scrubbed.  Removed all items older than 2015-05-23 23:47:38
+2015-07-22 23:49:04,990 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 23:49:04
+2015-07-22 23:50:31,390 [7] INFO  umbraco.BusinessLogic.Log - [Thread 12] Log scrubbed.  Removed all items older than 2015-05-23 23:50:31
+2015-07-22 23:51:57,803 [7] INFO  umbraco.BusinessLogic.Log - [Thread 36] Log scrubbed.  Removed all items older than 2015-05-23 23:51:57
+2015-07-22 23:53:24,209 [7] INFO  umbraco.BusinessLogic.Log - [Thread 38] Log scrubbed.  Removed all items older than 2015-05-23 23:53:24
+2015-07-22 23:54:50,605 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 23:54:50
+2015-07-22 23:56:17,012 [7] INFO  umbraco.BusinessLogic.Log - [Thread 62] Log scrubbed.  Removed all items older than 2015-05-23 23:56:17
+2015-07-22 23:57:43,416 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 23:57:43
+2015-07-22 23:59:09,821 [7] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2015-05-23 23:59:09

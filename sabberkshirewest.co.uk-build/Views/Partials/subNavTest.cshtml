@@ -1,0 +1,95 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+@if ((CurrentPage.Level == 2) && (CurrentPage.Children().Where("Visible").Any()))
+	{
+	<div class="show-hide-sub">
+		<div class="container">
+		<div class="row">
+		<div class="col-xs-12">				
+			<a href="#">
+				<span class="show-text">@CurrentPage.Name Menu 
+				<div class="bars">
+					<span class="bar1"></span>
+					<span class="bar2"></span>
+					<span class="bar3"></span>
+				</div>
+			</a>
+			<nav class="sub-menu">
+			<ul class="sub-nav"> 
+				@* For each child page under the root node, where the property umbracoNaviHide is not True *@
+				@foreach (var childPage in CurrentPage.Children.Where("Visible"))
+				{
+					<li>
+						<a href="@childPage.Url">@childPage.Name</a>
+					</li>
+				}
+			</ul>
+		</nav>
+		</div>
+		</div>
+		</div>				
+	</div>
+		
+	} else if ((CurrentPage.Level == 3) && (CurrentPage.Parent.Children().Where("Visible").Any()))
+	{
+	<div class="show-hide-sub">
+		<div class="container">
+		<div class="row">
+		<div class="col-xs-12">				
+			<a href="#">
+				<span class="show-text">@CurrentPage.Parent.Name Menu 
+				<div class="bars">
+					<span class="bar1"></span>
+					<span class="bar2"></span>
+					<span class="bar3"></span>
+				</div>
+			</a>
+			<nav class="sub-menu">
+			<ul class="sub-nav"> 
+				@* For each child page under the root node, where the property umbracoNaviHide is not True *@
+				@foreach (var childPage in CurrentPage.Parent.Children.Where("Visible"))
+				{
+					<li>
+						<a href="@childPage.Url">@childPage.Name</a>
+					</li>
+				}
+			</ul>
+		</nav>
+		</div>
+		</div>
+		</div>				
+	</div>
+
+		
+	} else if ((CurrentPage.Level == 4) && (CurrentPage.Parent.Parent.Children().Where("Visible").Any()))
+	{
+
+	<div class="show-hide-sub">
+		<div class="container">
+		<div class="row">
+		<div class="col-xs-12">				
+			<a href="#">
+				<span class="show-text">@CurrentPage.Parent.Parent.Name Menu 
+				<div class="bars">
+					<span class="bar1"></span>
+					<span class="bar2"></span>
+					<span class="bar3"></span>
+				</div>
+			</a>
+			<nav class="sub-menu">
+			<ul class="sub-nav"> 
+				@* For each child page under the root node, where the property umbracoNaviHide is not True *@
+				@foreach (var childPage in CurrentPage.Parent.Parent.Children.Where("Visible"))
+				{
+					<li>
+						<a href="@childPage.Url">@childPage.Name</a>
+					</li>
+				}
+			</ul>
+		</nav>
+		</div>
+		</div>
+		</div>				
+	</div>	
+
+	}

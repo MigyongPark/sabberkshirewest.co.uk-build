@@ -1,0 +1,11 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+@if (CurrentPage.HasValue("introText")) 
+{
+	<div id="introTxt">
+		<div class="container">
+			@Umbraco.Field("introText")
+			
+		</div>
+	</div>
+}

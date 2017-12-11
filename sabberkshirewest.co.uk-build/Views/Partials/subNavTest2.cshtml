@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+
+
+@if ((CurrentPage.Site().Children().Where("Visible").Any()))
+	{
+	<nav class="sub-menu">
+		<ul class="sub-nav"> 
+			@* For each child page under the root node, where the property umbracoNaviHide is not True *@
+			@foreach (var childPage in CurrentPage.Site().Children.Where("Visible"))
+			{
+			<li>
+				<a href="@childPage.Url">@childPage.Name</a>
+			</li>
+			}
+		</ul>
+	</nav>
+		
+	} 

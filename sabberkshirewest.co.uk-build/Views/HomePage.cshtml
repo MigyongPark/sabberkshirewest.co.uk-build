@@ -1,0 +1,12 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+@Html.Partial("bannerSlider2")
+
+@Html.Partial("introText")
+
+<div class="container">
+	@Umbraco.Field("bodyText")
+</div>

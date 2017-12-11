@@ -1,0 +1,381 @@
+/* Flexnav Base Styles */
+.flexnav {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-transform-style: preserve-3d;
+  overflow: hidden;
+  margin: 0 auto;
+  width: 100%;
+  max-height: 0; }
+  .flexnav.opacity {
+    opacity: 0; }
+  .flexnav.flexnav-show {
+    max-height: 2000px;
+    opacity: 1;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out; }
+  .flexnav.one-page {
+    position: fixed;
+    top: 50px;
+    right: 5%;
+    max-width: 200px; }
+  .flexnav li {
+    font-size: 100%;
+    position: relative;
+    overflow: hidden; }
+  .flexnav li a {
+    position: relative;
+    display: block;
+    padding: .96em;
+    z-index: 2;
+    overflow: hidden;
+    color: #222222;
+    background: #a6a6a2;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
+  .flexnav li ul {
+    width: 100%; }
+    .flexnav li ul li {
+      font-size: 100%;
+      position: relative;
+      overflow: hidden; }
+  .flexnav li ul.flexnav-show li {
+    overflow: visible; }
+  .flexnav li ul li a {
+    display: block;
+    background: #b2b2af; }
+  .flexnav ul li ul li a {
+    background: #bfbfbc; }
+  .flexnav ul li ul li ul li a {
+    background: #cbcbc9; }
+  .flexnav .touch-button {
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background: #acaca1;
+    background: rgba(0, 0, 0, 0.075);
+    text-align: center; }
+    .flexnav .touch-button:hover {
+      cursor: pointer; }
+    .flexnav .touch-button .navicon {
+      position: relative;
+      top: 1.4em;
+      font-size: 12px;
+      color: #666; }
+
+.menu-button {
+  position: relative;
+  display: block;
+  padding: 1em;
+  background: #a6a6a2;
+  color: #222222;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
+  .menu-button.one-page {
+    position: fixed;
+    top: 0;
+    right: 5%;
+    padding-right: 45px; }
+  .menu-button .touch-button {
+    background: transparent;
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center; }
+    .menu-button .touch-button .navicon {
+      font-size: 16px;
+      position: relative;
+      top: 1em;
+      color: #666; }
+
+@media all and (min-width: 777px) {
+  body.one-page {
+    padding-top: 70px; }
+
+  .flexnav {
+    overflow: visible; }
+    .flexnav.opacity {
+      opacity: 1; }
+    .flexnav.one-page {
+      top: 0;
+      right: auto;
+      max-width: 1080px; }
+    .flexnav li {
+      position: relative;
+      list-style: none;
+      float: left;
+      display: block;
+      background-color: #a6a6a2;
+      overflow: visible;
+      width: 20%; }
+    .flexnav li a {
+      border-left: 1px solid #acaca1;
+      border-bottom: none; }
+    .flexnav li > ul {
+      position: absolute;
+      top: auto;
+      left: 0; }
+      .flexnav li > ul li {
+        width: 100%; }
+    .flexnav li ul li > ul {
+      margin-left: 100%;
+      top: 0; }
+    .flexnav li ul li a {
+      border-bottom: none; }
+    .flexnav li ul.open {
+      display: block;
+      opacity: 1;
+      visibility: visible;
+      z-index: 1; }
+      .flexnav li ul.open li {
+        overflow: visible;
+        max-height: 100px; }
+      .flexnav li ul.open ul.open {
+        margin-left: 100%;
+        top: 0; }
+
+  .menu-button {
+    display: none; } }
+.oldie body.one-page {
+  padding-top: 70px; }
+.oldie .flexnav {
+  overflow: visible; }
+  .oldie .flexnav.one-page {
+    top: 0;
+    right: auto;
+    max-width: 1080px; }
+  .oldie .flexnav li {
+    position: relative;
+    list-style: none;
+    float: left;
+    display: block;
+    background-color: #a6a6a2;
+    width: 20%;
+    min-height: 50px;
+    overflow: visible; }
+  .oldie .flexnav li:hover > ul {
+    display: block;
+    width: 100%;
+    overflow: visible; }
+    .oldie .flexnav li:hover > ul li {
+      width: 100%;
+      float: none; }
+  .oldie .flexnav li a {
+    border-left: 1px solid #acaca1;
+    border-bottom: none;
+    overflow: visible; }
+  .oldie .flexnav li > ul {
+    background: #acaca1;
+    position: absolute;
+    top: auto;
+    left: 0;
+    display: none;
+    z-index: 1;
+    overflow: visible; }
+  .oldie .flexnav li ul li ul {
+    top: 0; }
+  .oldie .flexnav li ul li a {
+    border-bottom: none; }
+  .oldie .flexnav li ul.open {
+    display: block;
+    width: 100%;
+    overflow: visible; }
+    .oldie .flexnav li ul.open li {
+      width: 100%; }
+    .oldie .flexnav li ul.open ul.open {
+      margin-left: 100%;
+      top: 0;
+      display: block;
+      width: 100%;
+      overflow: visible; }
+  .oldie .flexnav ul li:hover ul {
+    margin-left: 100%;
+    top: 0; }
+.oldie .menu-button {
+  display: none; }
+.oldie.ie7 .flexnav li {
+  width: 19.9%; }
+
+
+
+/****** Nav Style Overides ******/
+.container.nav {
+	position: relative;
+	width: 100%;
+	z-index: 10;
+}
+
+nav.menu {
+	margin-bottom: 5em;
+	margin-top: 1em;
+ }
+ 
+nav.menu > ul.flexnav > li {
+	background: #fff;
+	width: 23%;
+	margin: 0 0.25em;
+}
+
+nav.menu > ul.flexnav > li > a {
+	color: #137eba;
+	background: #fff;
+	border: 2px solid #137eba;
+	padding: 0.3em 0.6em;
+	text-decoration: none;
+
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;  
+}
+
+nav.menu > ul.flexnav li a:hover,
+nav.menu > ul.flexnav li a:focus,
+nav.menu > ul.flexnav li a:active,
+nav.menu > ul.flexnav li.active a,
+nav.menu > ul.flexnav li.active a:hover,
+nav.menu > ul.flexnav li.active a:focus,
+nav.menu > ul.flexnav li.active a:active {
+	color: #137eba;
+	background: #fff;
+	border: 2px solid #137eba;
+}
+
+.menu-button {
+	background: #fff;
+	border-bottom: 2px solid #137eba;
+	border-top: 2px solid #137eba;
+	color: #137eba;
+	font-weight: bold;
+	padding: 1em 1em 1em 1.8em;
+
+}
+
+.menu-button .touch-button .navicon {
+  color: #137eba;
+}
+
+/****** sub/flyout menus ******/
+nav.menu > ul.flexnav > li > ul {
+	background: #fff;
+	padding: 0.2em;
+
+	-webkit-border-bottom-right-radius: 9px;
+	-webkit-border-bottom-left-radius: 9px;
+	-moz-border-radius-bottomright: 9px;
+	-moz-border-radius-bottomleft: 9px;
+	border-bottom-right-radius: 9px;
+	border-bottom-left-radius: 9px;
+}
+
+nav.menu > ul.flexnav > li > ul > li {
+	background: #fff;
+	margin-bottom: 0.2em;
+}
+
+nav.menu > ul.flexnav > li > ul > li a,
+nav.menu > ul.flexnav > li.active > ul > li a {
+	background: #00aedb;
+	border: 2px solid #00aedb;
+	color:#fff;
+	padding: 0.2em;
+	text-decoration: none;
+
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px; 
+}
+
+nav.menu > ul.flexnav > li > ul > li a:hover,
+nav.menu > ul.flexnav > li > ul > li a:focus,
+nav.menu > ul.flexnav > li > ul > li a:active
+{
+	text-decoration: none;
+}
+
+	
+.container ul.flexnav li {
+	margin-bottom: 0em;
+}
+
+.flexnav .touch-button {
+	height: 40px;
+	background: rgba(0, 0, 0, 0.1);
+	
+	-webkit-border-top-right-radius: 9px;
+	-webkit-border-bottom-right-radius: 9px;
+	-moz-border-radius-topright: 9px;
+	-moz-border-radius-bottomright: 9px;
+	border-top-right-radius: 9px;
+	border-bottom-right-radius: 9px;
+}
+			
+.flexnav .touch-button .navicon {
+	position: relative;
+	top: 0.5em;
+	font-size: 16px;
+	color: #fff;
+}
+
+/****** media queries ******/
+@media (min-width: 777px)
+{
+	.container.nav {
+		max-width: 777px;
+	}
+
+	nav.menu > ul.flexnav > li > ul {
+		width: 150%;
+	}
+	
+}	
+
+@media (min-width: 992px)
+{
+	.container.nav {
+  		max-width: 970px;
+	}
+}	
+
+@media (min-width: 1200px)
+{
+	.container.nav {
+		max-width: 1170px;
+	}
+}	
+					
+@media (max-width: 777px)
+{
+	nav.menu {
+	margin-bottom: 1em;
+	margin-top: 1em;
+	}
+
+	nav.menu > ul.flexnav {
+		padding: 0.3em 0.6em 0.3em 1em;
+	}
+
+	nav.menu > ul.flexnav li {
+		width: 100%;
+		margin: 0.3em;
+	}
+						
+	nav.menu > ul.flexnav > li > ul {
+		padding: 0.2em 0.8em 0.2em 0.2em;
+	}
+}
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

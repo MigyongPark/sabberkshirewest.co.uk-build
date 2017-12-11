@@ -1,0 +1,15 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+	<h1>@Umbraco.Field("pageName")</h1>
+	
+	<label>Date: </label> @Umbraco.Field("meetingDate", formatAsDate: true) &nbsp; &nbsp;
+	<label>Time: </label> @Umbraco.Field("meetingTime")<br>
+	<label>Location: </label> @Umbraco.Field("meetingLocation")
+	@Umbraco.Field("bodyText")
+	
+
+</div>

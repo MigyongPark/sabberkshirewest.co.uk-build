@@ -1,0 +1,52 @@
+html { 
+padding: 10px; 
+}
+
+h1 {
+font-size: 1.8rem;
+}
+
+h2 {
+font-size: 1.5rem;
+}
+
+h3 {
+font-size: 1.25rem;
+}
+
+p {
+font-size: 1rem;
+}
+
+blockquote {
+font-style: italic;
+font-size: 1rem;
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+.img-left {
+
+}
+
+.newWindow {
+/*Defined in sapStyles.css*/
+}
+
+.openPDF {
+/*Defined in sapStyles.css*/
+}
+
+.openWord {
+/*Defined in sapStyles.css*/
+}
+

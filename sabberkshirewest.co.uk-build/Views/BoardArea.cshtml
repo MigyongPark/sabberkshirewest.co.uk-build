@@ -1,0 +1,34 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+	<div class="row">
+	<div class="col-xs-12">
+		<h1>@Umbraco.Field("pageName")</h1>
+	</div>
+	</div>
+</div>
+	
+@Html.Partial("introText")
+
+<div class="container">
+	@{
+		var selection = Umbraco.Content(1103).Children.Where("Visible");
+	}
+	<div class="row">
+		@foreach(var item in selection)
+		{
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="boardListItem">
+						<img class="boardThumbNail" src="@item.GetCropUrl("memberPhoto", "memberProfile")">
+						<h2><a href="@item.Url">@item.Name</a></h2>
+						<h3>@item.title</h3>
+						<p>@Umbraco.Truncate(item.briefIntro, 120, true)</p>
+			</div>
+		</div>
+
+		}
+	</div>
+</div>

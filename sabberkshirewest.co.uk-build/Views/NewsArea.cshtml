@@ -1,0 +1,25 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "SubMaster.cshtml";
+}
+
+<div class="container">
+	<h1>@Umbraco.Field("pageName")</h1>
+</div>
+	
+@Html.Partial("introText")
+
+<div class="container">
+	@{
+		var selection = Umbraco.Content(1095).Children.Where("Visible").OrderBy("CreateDate desc");
+	}
+	<ul class="summary-list">
+		@foreach(var item in selection){
+			<li>
+				<h2><a href="@item.Url">@item.Name</a></h2>
+				@item.newsSummary
+			</li>
+		}
+	</ul>
+</div>
+		

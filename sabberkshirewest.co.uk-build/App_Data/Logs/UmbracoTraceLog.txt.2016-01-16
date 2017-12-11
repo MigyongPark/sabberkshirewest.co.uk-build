@@ -1,0 +1,1131 @@
+﻿2016-01-16 00:00:38,159 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:00:38
+2016-01-16 00:02:04,566 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:02:04
+2016-01-16 00:03:30,972 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:03:30
+2016-01-16 00:04:57,379 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-11-17 00:04:57
+2016-01-16 00:06:23,785 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:06:23
+2016-01-16 00:07:50,191 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:07:50
+2016-01-16 00:09:16,598 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:09:16
+2016-01-16 00:10:43,004 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:10:43
+2016-01-16 00:12:09,411 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:12:09
+2016-01-16 00:13:35,817 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-11-17 00:13:35
+2016-01-16 00:15:02,223 [7] INFO  umbraco.BusinessLogic.Log - [Thread 20] Log scrubbed.  Removed all items older than 2015-11-17 00:15:02
+2016-01-16 00:16:28,630 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:16:28
+2016-01-16 00:17:55,036 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:17:55
+2016-01-16 00:19:21,443 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:19:21
+2016-01-16 00:20:47,849 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:20:47
+2016-01-16 00:22:14,256 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:22:14
+2016-01-16 00:23:40,662 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:23:40
+2016-01-16 00:25:07,068 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:25:07
+2016-01-16 00:26:33,475 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:26:33
+2016-01-16 00:27:59,881 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:27:59
+2016-01-16 00:29:26,288 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:29:26
+2016-01-16 00:30:52,694 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:30:52
+2016-01-16 00:32:19,100 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:32:19
+2016-01-16 00:33:45,507 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 00:33:45
+2016-01-16 00:35:11,913 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:35:11
+2016-01-16 00:36:38,320 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:36:38
+2016-01-16 00:38:04,726 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 00:38:04
+2016-01-16 00:39:31,133 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 00:39:31
+2016-01-16 00:40:01,976 [7] INFO  umbraco.content - [Thread 16] Loading content from disk cache...
+2016-01-16 00:40:02,117 [7] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2016-01-16 00:40:02,117 [7] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 23 (took 1ms)
+2016-01-16 00:40:02,867 [7] INFO  Umbraco.Core.PluginManager - [Thread 16] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2016-01-16 00:40:02,867 [7] INFO  Umbraco.Core.PluginManager - [Thread 16] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 44 (took 0ms)
+2016-01-16 00:40:57,539 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 00:40:57
+2016-01-16 00:42:23,945 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 00:42:23
+2016-01-16 00:43:50,352 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 00:43:50
+2016-01-16 00:45:16,758 [7] INFO  umbraco.BusinessLogic.Log - [Thread 9] Log scrubbed.  Removed all items older than 2015-11-17 00:45:16
+2016-01-16 00:46:43,165 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 00:46:43
+2016-01-16 00:48:09,571 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 00:48:09
+2016-01-16 00:49:35,978 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 00:49:35
+2016-01-16 00:51:02,384 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 00:51:02
+2016-01-16 00:52:28,790 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 00:52:28
+2016-01-16 00:53:55,197 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 00:53:55
+2016-01-16 00:55:21,603 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 00:55:21
+2016-01-16 00:56:48,010 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:56:48
+2016-01-16 00:58:14,416 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 00:58:14
+2016-01-16 00:59:40,822 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 00:59:40
+2016-01-16 01:01:07,229 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:01:07
+2016-01-16 01:02:33,682 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:02:33
+2016-01-16 01:04:00,089 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:04:00
+2016-01-16 01:05:26,495 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:05:26
+2016-01-16 01:06:52,901 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:06:52
+2016-01-16 01:08:19,308 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:08:19
+2016-01-16 01:09:45,714 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:09:45
+2016-01-16 01:11:12,121 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:11:12
+2016-01-16 01:12:38,527 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:12:38
+2016-01-16 01:14:04,934 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:14:04
+2016-01-16 01:15:31,340 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:15:31
+2016-01-16 01:16:57,746 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:16:57
+2016-01-16 01:18:24,153 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:18:24
+2016-01-16 01:19:50,559 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:19:50
+2016-01-16 01:21:16,966 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:21:16
+2016-01-16 01:22:43,388 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:22:43
+2016-01-16 01:24:09,794 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:24:09
+2016-01-16 01:25:36,201 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:25:36
+2016-01-16 01:27:02,607 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:27:02
+2016-01-16 01:28:29,013 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:28:29
+2016-01-16 01:29:55,420 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:29:55
+2016-01-16 01:31:21,826 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:31:21
+2016-01-16 01:32:48,233 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:32:48
+2016-01-16 01:34:14,639 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:34:14
+2016-01-16 01:35:41,045 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:35:41
+2016-01-16 01:37:07,452 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:37:07
+2016-01-16 01:38:33,858 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:38:33
+2016-01-16 01:40:00,265 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:40:00
+2016-01-16 01:41:26,671 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:41:26
+2016-01-16 01:42:53,078 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:42:53
+2016-01-16 01:44:19,484 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:44:19
+2016-01-16 01:45:45,890 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:45:45
+2016-01-16 01:47:12,297 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:47:12
+2016-01-16 01:48:38,703 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:48:38
+2016-01-16 01:50:05,110 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:50:05
+2016-01-16 01:51:31,516 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 01:51:31
+2016-01-16 01:52:57,922 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:52:57
+2016-01-16 01:54:24,329 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:54:24
+2016-01-16 01:55:50,735 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:55:50
+2016-01-16 01:57:17,142 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 01:57:17
+2016-01-16 01:58:43,548 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 01:58:43
+2016-01-16 02:00:09,955 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:00:09
+2016-01-16 02:01:36,361 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 02:01:36
+2016-01-16 02:03:02,767 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:03:02
+2016-01-16 02:04:29,174 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:04:29
+2016-01-16 02:05:55,580 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 02:05:55
+2016-01-16 02:07:21,987 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 02:07:21
+2016-01-16 02:08:48,393 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:08:48
+2016-01-16 02:10:14,800 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:10:14
+2016-01-16 02:11:41,206 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:11:41
+2016-01-16 02:13:07,612 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:13:07
+2016-01-16 02:14:34,019 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:14:34
+2016-01-16 02:16:00,425 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:16:00
+2016-01-16 02:17:26,832 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:17:26
+2016-01-16 02:18:53,238 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:18:53
+2016-01-16 02:20:19,644 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:20:19
+2016-01-16 02:21:46,051 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:21:46
+2016-01-16 02:23:12,457 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 02:23:12
+2016-01-16 02:24:38,864 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:24:38
+2016-01-16 02:26:05,270 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 02:26:05
+2016-01-16 02:27:31,677 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:27:31
+2016-01-16 02:28:58,083 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:28:58
+2016-01-16 02:30:24,489 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 02:30:24
+2016-01-16 02:31:50,896 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 02:31:50
+2016-01-16 02:33:17,302 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:33:17
+2016-01-16 02:34:43,709 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:34:43
+2016-01-16 02:36:10,115 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:36:10
+2016-01-16 02:37:36,521 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:37:36
+2016-01-16 02:39:02,928 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 02:39:02
+2016-01-16 02:40:29,334 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:40:29
+2016-01-16 02:41:55,741 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:41:55
+2016-01-16 02:43:22,147 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:43:22
+2016-01-16 02:44:48,554 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:44:48
+2016-01-16 02:46:14,960 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 02:46:14
+2016-01-16 02:47:41,366 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:47:41
+2016-01-16 02:49:07,773 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:49:07
+2016-01-16 02:50:34,179 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 02:50:34
+2016-01-16 02:52:00,586 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:52:00
+2016-01-16 02:53:26,992 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 02:53:26
+2016-01-16 02:54:53,398 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:54:53
+2016-01-16 02:56:19,805 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 02:56:19
+2016-01-16 02:57:46,211 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 02:57:46
+2016-01-16 02:59:12,618 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 02:59:12
+2016-01-16 03:00:39,024 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:00:39
+2016-01-16 03:02:05,431 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:02:05
+2016-01-16 03:03:31,837 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:03:31
+2016-01-16 03:04:58,243 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:04:58
+2016-01-16 03:06:24,650 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:06:24
+2016-01-16 03:07:51,056 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:07:51
+2016-01-16 03:09:17,463 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:09:17
+2016-01-16 03:10:43,869 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:10:43
+2016-01-16 03:12:10,276 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:12:10
+2016-01-16 03:13:36,682 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:13:36
+2016-01-16 03:15:03,088 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:15:03
+2016-01-16 03:16:29,495 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:16:29
+2016-01-16 03:17:55,901 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:17:55
+2016-01-16 03:19:22,308 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:19:22
+2016-01-16 03:20:48,714 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:20:48
+2016-01-16 03:22:15,120 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:22:15
+2016-01-16 03:23:41,527 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:23:41
+2016-01-16 03:25:07,933 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:25:07
+2016-01-16 03:26:34,340 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:26:34
+2016-01-16 03:28:00,746 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:28:00
+2016-01-16 03:29:27,153 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:29:27
+2016-01-16 03:30:53,559 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:30:53
+2016-01-16 03:32:19,965 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:32:19
+2016-01-16 03:33:46,372 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:33:46
+2016-01-16 03:35:12,778 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:35:12
+2016-01-16 03:36:39,185 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:36:39
+2016-01-16 03:38:05,591 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:38:05
+2016-01-16 03:39:31,997 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:39:31
+2016-01-16 03:40:58,404 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:40:58
+2016-01-16 03:42:24,810 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:42:24
+2016-01-16 03:43:51,217 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:43:51
+2016-01-16 03:45:17,623 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:45:17
+2016-01-16 03:46:44,030 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:46:44
+2016-01-16 03:48:10,436 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:48:10
+2016-01-16 03:49:36,842 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:49:36
+2016-01-16 03:51:03,249 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:51:03
+2016-01-16 03:52:29,655 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:52:29
+2016-01-16 03:53:56,062 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 03:53:56
+2016-01-16 03:55:22,468 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 03:55:22
+2016-01-16 03:56:48,875 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 03:56:48
+2016-01-16 03:58:15,281 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:58:15
+2016-01-16 03:59:41,687 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 03:59:41
+2016-01-16 04:01:08,094 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:01:08
+2016-01-16 04:02:34,500 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:02:34
+2016-01-16 04:04:00,907 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:04:00
+2016-01-16 04:05:27,313 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:05:27
+2016-01-16 04:06:53,719 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:06:53
+2016-01-16 04:08:20,126 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:08:20
+2016-01-16 04:09:46,532 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:09:46
+2016-01-16 04:11:12,939 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:11:12
+2016-01-16 04:12:39,345 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:12:39
+2016-01-16 04:14:05,752 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:14:05
+2016-01-16 04:15:32,158 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:15:32
+2016-01-16 04:16:58,564 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:16:58
+2016-01-16 04:18:24,971 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:18:24
+2016-01-16 04:19:51,377 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:19:51
+2016-01-16 04:21:17,784 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:21:17
+2016-01-16 04:22:44,190 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:22:44
+2016-01-16 04:24:10,596 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:24:10
+2016-01-16 04:25:37,003 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:25:37
+2016-01-16 04:27:03,409 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:27:03
+2016-01-16 04:28:29,816 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:28:29
+2016-01-16 04:29:56,222 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:29:56
+2016-01-16 04:31:22,629 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:31:22
+2016-01-16 04:32:49,035 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:32:49
+2016-01-16 04:34:15,441 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:34:15
+2016-01-16 04:35:41,848 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:35:41
+2016-01-16 04:37:08,254 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:37:08
+2016-01-16 04:38:34,661 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:38:34
+2016-01-16 04:40:01,067 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:40:01
+2016-01-16 04:41:27,474 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:41:27
+2016-01-16 04:42:53,880 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:42:53
+2016-01-16 04:44:20,286 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:44:20
+2016-01-16 04:45:46,693 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:45:46
+2016-01-16 04:47:13,099 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:47:13
+2016-01-16 04:48:39,506 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:48:39
+2016-01-16 04:50:05,912 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 04:50:05
+2016-01-16 04:51:32,318 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:51:32
+2016-01-16 04:52:58,725 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:52:58
+2016-01-16 04:54:25,131 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 04:54:25
+2016-01-16 04:55:51,538 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 04:55:51
+2016-01-16 04:57:17,944 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:57:17
+2016-01-16 04:58:44,351 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 04:58:44
+2016-01-16 05:00:10,757 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:00:10
+2016-01-16 05:01:37,163 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:01:37
+2016-01-16 05:03:03,570 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:03:03
+2016-01-16 05:04:29,976 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:04:29
+2016-01-16 05:05:56,383 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:05:56
+2016-01-16 05:07:22,789 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:07:22
+2016-01-16 05:08:49,195 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:08:49
+2016-01-16 05:10:15,602 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:10:15
+2016-01-16 05:11:42,008 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:11:42
+2016-01-16 05:13:08,415 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:13:08
+2016-01-16 05:14:34,821 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:14:34
+2016-01-16 05:16:01,228 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:16:01
+2016-01-16 05:17:27,634 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:17:27
+2016-01-16 05:18:54,040 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:18:54
+2016-01-16 05:20:20,447 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:20:20
+2016-01-16 05:21:46,853 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:21:46
+2016-01-16 05:23:13,260 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:23:13
+2016-01-16 05:24:39,666 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:24:39
+2016-01-16 05:26:06,072 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:26:06
+2016-01-16 05:27:32,479 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:27:32
+2016-01-16 05:28:58,885 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:28:58
+2016-01-16 05:30:25,292 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:30:25
+2016-01-16 05:31:51,698 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:31:51
+2016-01-16 05:33:18,105 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:33:18
+2016-01-16 05:34:44,511 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:34:44
+2016-01-16 05:36:10,917 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:36:10
+2016-01-16 05:37:37,324 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:37:37
+2016-01-16 05:39:03,730 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:39:03
+2016-01-16 05:40:30,137 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:40:30
+2016-01-16 05:41:56,543 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:41:56
+2016-01-16 05:43:22,950 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:43:22
+2016-01-16 05:44:49,356 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:44:49
+2016-01-16 05:46:15,762 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:46:15
+2016-01-16 05:47:42,169 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:47:42
+2016-01-16 05:49:08,575 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 05:49:08
+2016-01-16 05:50:34,982 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:50:34
+2016-01-16 05:52:01,388 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 05:52:01
+2016-01-16 05:53:27,794 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:53:27
+2016-01-16 05:54:54,201 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:54:54
+2016-01-16 05:56:20,607 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 05:56:20
+2016-01-16 05:57:47,014 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:57:47
+2016-01-16 05:59:13,420 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 05:59:13
+2016-01-16 06:00:39,827 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:00:39
+2016-01-16 06:02:06,233 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:02:06
+2016-01-16 06:03:32,639 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:03:32
+2016-01-16 06:04:59,046 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:04:59
+2016-01-16 06:06:25,452 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:06:25
+2016-01-16 06:07:51,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:07:51
+2016-01-16 06:09:18,312 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:09:18
+2016-01-16 06:10:44,718 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:10:44
+2016-01-16 06:12:11,125 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:12:11
+2016-01-16 06:13:37,531 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:13:37
+2016-01-16 06:15:03,938 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:15:03
+2016-01-16 06:16:30,344 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:16:30
+2016-01-16 06:17:56,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:17:56
+2016-01-16 06:19:23,157 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:19:23
+2016-01-16 06:20:49,563 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:20:49
+2016-01-16 06:22:15,970 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:22:15
+2016-01-16 06:23:42,376 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:23:42
+2016-01-16 06:25:08,783 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:25:08
+2016-01-16 06:26:35,189 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:26:35
+2016-01-16 06:28:01,595 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:28:01
+2016-01-16 06:29:28,002 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:29:28
+2016-01-16 06:30:54,408 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:30:54
+2016-01-16 06:32:20,815 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:32:20
+2016-01-16 06:33:47,221 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:33:47
+2016-01-16 06:35:13,627 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:35:13
+2016-01-16 06:36:40,034 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:36:40
+2016-01-16 06:38:06,440 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:38:06
+2016-01-16 06:39:32,847 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:39:32
+2016-01-16 06:40:59,253 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:40:59
+2016-01-16 06:42:25,660 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:42:25
+2016-01-16 06:43:52,066 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:43:52
+2016-01-16 06:45:18,472 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:45:18
+2016-01-16 06:46:44,879 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:46:44
+2016-01-16 06:48:11,285 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:48:11
+2016-01-16 06:49:37,692 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:49:37
+2016-01-16 06:51:04,098 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:51:04
+2016-01-16 06:52:30,505 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 06:52:30
+2016-01-16 06:53:56,911 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:53:56
+2016-01-16 06:55:23,317 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 06:55:23
+2016-01-16 06:56:49,724 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:56:49
+2016-01-16 06:58:16,130 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 06:58:16
+2016-01-16 06:59:42,537 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 06:59:42
+2016-01-16 07:01:08,943 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:01:08
+2016-01-16 07:02:35,349 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:02:35
+2016-01-16 07:04:01,756 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:04:01
+2016-01-16 07:05:28,162 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:05:28
+2016-01-16 07:06:54,569 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:06:54
+2016-01-16 07:08:20,975 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:08:20
+2016-01-16 07:09:47,382 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:09:47
+2016-01-16 07:11:13,788 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:11:13
+2016-01-16 07:12:40,194 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:12:40
+2016-01-16 07:14:06,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:14:06
+2016-01-16 07:15:33,007 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:15:33
+2016-01-16 07:16:59,414 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:16:59
+2016-01-16 07:18:25,820 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:18:25
+2016-01-16 07:19:52,226 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:19:52
+2016-01-16 07:21:18,633 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:21:18
+2016-01-16 07:22:45,039 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:22:45
+2016-01-16 07:24:11,446 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:24:11
+2016-01-16 07:25:37,852 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:25:37
+2016-01-16 07:27:04,259 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:27:04
+2016-01-16 07:28:30,665 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:28:30
+2016-01-16 07:29:57,071 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:29:57
+2016-01-16 07:31:23,478 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:31:23
+2016-01-16 07:32:49,884 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:32:49
+2016-01-16 07:34:16,291 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:34:16
+2016-01-16 07:35:42,697 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:35:42
+2016-01-16 07:37:09,103 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:37:09
+2016-01-16 07:38:35,510 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:38:35
+2016-01-16 07:40:01,916 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:40:01
+2016-01-16 07:41:28,323 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:41:28
+2016-01-16 07:42:54,729 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:42:54
+2016-01-16 07:44:21,136 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:44:21
+2016-01-16 07:45:47,542 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 07:45:47
+2016-01-16 07:47:13,948 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:47:13
+2016-01-16 07:48:40,355 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:48:40
+2016-01-16 07:50:06,761 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 07:50:06
+2016-01-16 07:51:33,168 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:51:33
+2016-01-16 07:52:59,574 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:52:59
+2016-01-16 07:54:25,981 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:54:25
+2016-01-16 07:55:52,387 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:55:52
+2016-01-16 07:57:18,793 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 07:57:18
+2016-01-16 07:58:45,200 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 07:58:45
+2016-01-16 08:00:11,606 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:00:11
+2016-01-16 08:01:38,028 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:01:38
+2016-01-16 08:03:04,435 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:03:04
+2016-01-16 08:04:30,841 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:04:30
+2016-01-16 08:05:57,248 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:05:57
+2016-01-16 08:07:23,654 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:07:23
+2016-01-16 08:08:50,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:08:50
+2016-01-16 08:10:16,467 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:10:16
+2016-01-16 08:11:42,873 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:11:42
+2016-01-16 08:13:09,280 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:13:09
+2016-01-16 08:14:35,686 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:14:35
+2016-01-16 08:16:02,092 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:16:02
+2016-01-16 08:17:28,499 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:17:28
+2016-01-16 08:18:54,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:18:54
+2016-01-16 08:20:21,312 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:20:21
+2016-01-16 08:21:47,718 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:21:47
+2016-01-16 08:23:14,125 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:23:14
+2016-01-16 08:24:40,531 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:24:40
+2016-01-16 08:26:06,937 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 08:26:06
+2016-01-16 08:27:33,344 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:27:33
+2016-01-16 08:28:59,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:28:59
+2016-01-16 08:30:26,157 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:30:26
+2016-01-16 08:31:52,563 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:31:52
+2016-01-16 08:33:18,969 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 08:33:18
+2016-01-16 08:34:45,376 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:34:45
+2016-01-16 08:36:11,782 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:36:11
+2016-01-16 08:37:38,189 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:37:38
+2016-01-16 08:39:04,595 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:39:04
+2016-01-16 08:40:31,002 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:40:31
+2016-01-16 08:41:57,408 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:41:57
+2016-01-16 08:43:23,814 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 08:43:23
+2016-01-16 08:44:50,221 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 08:44:50
+2016-01-16 08:46:16,627 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 08:46:16
+2016-01-16 08:47:43,034 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:47:43
+2016-01-16 08:49:09,440 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:49:09
+2016-01-16 08:50:35,846 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:50:35
+2016-01-16 08:52:02,253 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 08:52:02
+2016-01-16 08:53:28,659 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:53:28
+2016-01-16 08:54:55,066 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:54:55
+2016-01-16 08:56:21,472 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:56:21
+2016-01-16 08:57:47,879 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 08:57:47
+2016-01-16 08:59:14,285 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 08:59:14
+2016-01-16 09:00:40,691 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 09:00:40
+2016-01-16 09:02:07,098 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:02:07
+2016-01-16 09:03:33,504 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:03:33
+2016-01-16 09:04:59,911 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:04:59
+2016-01-16 09:06:26,317 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:06:26
+2016-01-16 09:07:52,723 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:07:52
+2016-01-16 09:09:19,130 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 09:09:19
+2016-01-16 09:10:45,536 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 09:10:45
+2016-01-16 09:12:11,943 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:12:11
+2016-01-16 09:13:38,349 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 09:13:38
+2016-01-16 09:15:04,756 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 09:15:04
+2016-01-16 09:16:31,162 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:16:31
+2016-01-16 09:17:57,568 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:17:57
+2016-01-16 09:19:23,975 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:19:23
+2016-01-16 09:20:50,381 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:20:50
+2016-01-16 09:22:16,788 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:22:16
+2016-01-16 09:23:43,194 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:23:43
+2016-01-16 09:25:09,601 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:25:09
+2016-01-16 09:26:36,007 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:26:36
+2016-01-16 09:28:02,413 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:28:02
+2016-01-16 09:29:28,820 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 09:29:28
+2016-01-16 09:30:55,226 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:30:55
+2016-01-16 09:32:21,633 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:32:21
+2016-01-16 09:33:48,039 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:33:48
+2016-01-16 09:35:14,445 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:35:14
+2016-01-16 09:36:40,852 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:36:40
+2016-01-16 09:38:07,258 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:38:07
+2016-01-16 09:39:33,665 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:39:33
+2016-01-16 09:41:00,071 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 09:41:00
+2016-01-16 09:42:26,478 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 09:42:26
+2016-01-16 09:43:52,884 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:43:52
+2016-01-16 09:45:19,290 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 09:45:19
+2016-01-16 09:46:45,697 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:46:45
+2016-01-16 09:48:12,103 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 09:48:12
+2016-01-16 09:49:38,510 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:49:38
+2016-01-16 09:51:04,916 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:51:04
+2016-01-16 09:52:31,322 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 09:52:31
+2016-01-16 09:53:57,729 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:53:57
+2016-01-16 09:55:24,135 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:55:24
+2016-01-16 09:56:50,542 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 09:56:50
+2016-01-16 09:58:16,948 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:58:16
+2016-01-16 09:59:43,355 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 09:59:43
+2016-01-16 10:01:09,761 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:01:09
+2016-01-16 10:02:36,167 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:02:36
+2016-01-16 10:04:02,574 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:04:02
+2016-01-16 10:05:28,980 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:05:28
+2016-01-16 10:06:55,402 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:06:55
+2016-01-16 10:08:21,809 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:08:21
+2016-01-16 10:09:48,215 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:09:48
+2016-01-16 10:11:14,622 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:11:14
+2016-01-16 10:12:41,028 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:12:41
+2016-01-16 10:14:07,434 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:14:07
+2016-01-16 10:15:33,841 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:15:33
+2016-01-16 10:17:00,247 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:17:00
+2016-01-16 10:18:26,654 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:18:26
+2016-01-16 10:19:53,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:19:53
+2016-01-16 10:21:19,466 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:21:19
+2016-01-16 10:22:45,873 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:22:45
+2016-01-16 10:24:12,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:24:12
+2016-01-16 10:25:38,686 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:25:38
+2016-01-16 10:27:05,092 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:27:05
+2016-01-16 10:28:31,499 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:28:31
+2016-01-16 10:29:57,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:29:57
+2016-01-16 10:31:24,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:31:24
+2016-01-16 10:32:50,718 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:32:50
+2016-01-16 10:34:17,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:34:17
+2016-01-16 10:35:43,531 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:35:43
+2016-01-16 10:37:09,937 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:37:09
+2016-01-16 10:38:36,344 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:38:36
+2016-01-16 10:40:02,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:40:02
+2016-01-16 10:41:29,156 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:41:29
+2016-01-16 10:42:55,563 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:42:55
+2016-01-16 10:44:21,969 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:44:21
+2016-01-16 10:45:48,376 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:45:48
+2016-01-16 10:47:14,782 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:47:14
+2016-01-16 10:48:41,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:48:41
+2016-01-16 10:50:07,595 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:50:07
+2016-01-16 10:51:34,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:51:34
+2016-01-16 10:53:00,408 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 10:53:00
+2016-01-16 10:54:26,814 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 10:54:26
+2016-01-16 10:55:53,221 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 10:55:53
+2016-01-16 10:57:19,627 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:57:19
+2016-01-16 10:58:46,033 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 10:58:46
+2016-01-16 11:00:12,440 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:00:12
+2016-01-16 11:00:58,346 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:01:38,846 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:01:38
+2016-01-16 11:01:58,284 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:02:58,284 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:03:05,253 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:03:05
+2016-01-16 11:03:58,300 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:04:31,659 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:04:31
+2016-01-16 11:04:58,315 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 13] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:05:58,066 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:05:58
+2016-01-16 11:05:58,331 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 14] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:06:58,347 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:07:24,472 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:07:24
+2016-01-16 11:07:58,363 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 14] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:08:50,878 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:08:50
+2016-01-16 11:08:58,378 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 13] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:09:58,394 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 14] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:10:17,285 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:10:17
+2016-01-16 11:10:58,394 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:11:43,691 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:11:43
+2016-01-16 11:11:58,410 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 13] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:12:58,426 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 14] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:13:10,098 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:13:10
+2016-01-16 11:13:58,441 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 18] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:14:36,504 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:14:36
+2016-01-16 11:14:58,457 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 18] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:15:58,473 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 18] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:16:02,910 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:16:02
+2016-01-16 11:16:58,473 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:17:29,317 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:17:29
+2016-01-16 11:17:58,489 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 13] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:18:55,723 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:18:55
+2016-01-16 11:18:58,505 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:19:58,520 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 8] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:20:22,130 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:20:22
+2016-01-16 11:20:58,536 [7] ERROR Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute - [Thread 18] Failed to format passed in token value
+System.Security.Cryptography.CryptographicException: Error occurred during a cryptographic operation.
+   at System.Web.Security.Cryptography.HomogenizingCryptoServiceWrapper.HomogenizeErrors(Func`2 func, Byte[] input)
+   at System.Web.Security.FormsAuthentication.Decrypt(String encryptedTicket)
+   at Umbraco.Core.StringExtensions.DecryptWithMachineKey(String value)
+   at Umbraco.Web.Mvc.AdminTokenAuthorizeAttribute.AuthorizeCore(HttpContextBase httpContext)
+2016-01-16 11:21:48,536 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:21:48
+2016-01-16 11:23:14,958 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:23:14
+2016-01-16 11:24:41,365 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:24:41
+2016-01-16 11:26:07,771 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:26:07
+2016-01-16 11:27:34,177 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:27:34
+2016-01-16 11:29:00,584 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:29:00
+2016-01-16 11:30:26,990 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:30:26
+2016-01-16 11:31:53,397 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:31:53
+2016-01-16 11:33:19,803 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:33:19
+2016-01-16 11:34:46,210 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:34:46
+2016-01-16 11:36:12,616 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:36:12
+2016-01-16 11:37:39,022 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:37:39
+2016-01-16 11:39:05,429 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:39:05
+2016-01-16 11:40:31,835 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:40:31
+2016-01-16 11:41:58,242 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:41:58
+2016-01-16 11:43:24,648 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:43:24
+2016-01-16 11:44:51,054 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 11:44:51
+2016-01-16 11:46:17,461 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:46:17
+2016-01-16 11:47:43,867 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:47:43
+2016-01-16 11:49:10,274 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:49:10
+2016-01-16 11:50:36,680 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:50:36
+2016-01-16 11:52:03,087 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:52:03
+2016-01-16 11:53:29,493 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:53:29
+2016-01-16 11:54:55,899 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:54:55
+2016-01-16 11:56:22,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 11:56:22
+2016-01-16 11:57:48,712 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 11:57:48
+2016-01-16 11:59:15,119 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 11:59:15
+2016-01-16 12:00:41,525 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:00:41
+2016-01-16 12:02:07,931 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:02:07
+2016-01-16 12:03:34,338 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:03:34
+2016-01-16 12:05:00,744 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:05:00
+2016-01-16 12:06:27,151 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:06:27
+2016-01-16 12:07:53,557 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:07:53
+2016-01-16 12:09:19,964 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:09:19
+2016-01-16 12:10:46,370 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:10:46
+2016-01-16 12:12:12,776 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:12:12
+2016-01-16 12:13:39,183 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:13:39
+2016-01-16 12:15:05,589 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:15:05
+2016-01-16 12:16:31,996 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:16:31
+2016-01-16 12:17:58,402 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:17:58
+2016-01-16 12:19:24,809 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:19:24
+2016-01-16 12:20:51,215 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:20:51
+2016-01-16 12:22:17,621 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:22:17
+2016-01-16 12:23:44,028 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:23:44
+2016-01-16 12:25:10,434 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:25:10
+2016-01-16 12:26:36,841 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:26:36
+2016-01-16 12:28:03,247 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:28:03
+2016-01-16 12:29:29,653 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:29:29
+2016-01-16 12:30:56,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:30:56
+2016-01-16 12:32:22,466 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:32:22
+2016-01-16 12:33:48,873 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:33:48
+2016-01-16 12:35:15,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:35:15
+2016-01-16 12:36:41,686 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:36:41
+2016-01-16 12:38:08,092 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:38:08
+2016-01-16 12:39:34,498 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:39:34
+2016-01-16 12:41:00,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:41:00
+2016-01-16 12:42:27,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:42:27
+2016-01-16 12:43:53,718 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:43:53
+2016-01-16 12:45:20,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:45:20
+2016-01-16 12:46:46,530 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:46:46
+2016-01-16 12:48:12,937 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:48:12
+2016-01-16 12:49:39,359 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:49:39
+2016-01-16 12:51:05,765 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 12:51:05
+2016-01-16 12:52:32,172 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:52:32
+2016-01-16 12:53:58,578 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:53:58
+2016-01-16 12:55:24,985 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 12:55:24
+2016-01-16 12:56:51,391 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 12:56:51
+2016-01-16 12:58:17,797 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:58:17
+2016-01-16 12:59:44,204 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 12:59:44
+2016-01-16 13:01:10,610 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:01:10
+2016-01-16 13:02:37,017 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 13:02:37
+2016-01-16 13:04:03,423 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:04:03
+2016-01-16 13:05:29,830 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:05:29
+2016-01-16 13:06:56,236 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:06:56
+2016-01-16 13:08:22,642 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:08:22
+2016-01-16 13:09:49,049 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:09:49
+2016-01-16 13:11:15,455 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 13:11:15
+2016-01-16 13:12:41,862 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 13:12:41
+2016-01-16 13:14:08,268 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:14:08
+2016-01-16 13:15:34,674 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:15:34
+2016-01-16 13:17:01,081 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:17:01
+2016-01-16 13:18:27,487 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:18:27
+2016-01-16 13:19:53,894 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:19:53
+2016-01-16 13:21:20,300 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:21:20
+2016-01-16 13:22:46,707 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:22:46
+2016-01-16 13:24:13,113 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:24:13
+2016-01-16 13:25:39,519 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:25:39
+2016-01-16 13:27:05,926 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:27:05
+2016-01-16 13:28:32,332 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:28:32
+2016-01-16 13:29:58,739 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:29:58
+2016-01-16 13:31:25,145 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 13:31:25
+2016-01-16 13:32:51,552 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:32:51
+2016-01-16 13:34:17,958 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:34:17
+2016-01-16 13:35:44,364 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:35:44
+2016-01-16 13:37:10,771 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:37:10
+2016-01-16 13:38:37,177 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:38:37
+2016-01-16 13:40:03,584 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:40:03
+2016-01-16 13:41:29,990 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:41:29
+2016-01-16 13:42:56,396 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:42:56
+2016-01-16 13:44:22,803 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:44:22
+2016-01-16 13:45:49,209 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:45:49
+2016-01-16 13:47:15,616 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:47:15
+2016-01-16 13:48:42,022 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:48:42
+2016-01-16 13:50:08,429 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:50:08
+2016-01-16 13:51:34,835 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:51:34
+2016-01-16 13:53:01,241 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 13:53:01
+2016-01-16 13:54:27,648 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:54:27
+2016-01-16 13:55:54,054 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:55:54
+2016-01-16 13:57:20,461 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 13:57:20
+2016-01-16 13:58:46,867 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 13:58:46
+2016-01-16 14:00:13,273 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:00:13
+2016-01-16 14:01:39,680 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:01:39
+2016-01-16 14:03:06,086 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:03:06
+2016-01-16 14:04:32,493 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:04:32
+2016-01-16 14:05:58,899 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:05:58
+2016-01-16 14:07:25,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:07:25
+2016-01-16 14:08:51,712 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:08:51
+2016-01-16 14:10:18,118 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:10:18
+2016-01-16 14:11:44,525 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:11:44
+2016-01-16 14:13:10,931 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:13:10
+2016-01-16 14:14:37,338 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:14:37
+2016-01-16 14:16:03,744 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:16:03
+2016-01-16 14:17:30,150 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:17:30
+2016-01-16 14:18:56,557 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:18:56
+2016-01-16 14:20:22,963 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:20:22
+2016-01-16 14:21:49,370 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:21:49
+2016-01-16 14:23:15,776 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:23:15
+2016-01-16 14:24:42,183 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:24:42
+2016-01-16 14:26:08,589 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:26:08
+2016-01-16 14:27:34,995 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:27:34
+2016-01-16 14:29:01,402 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:29:01
+2016-01-16 14:30:27,808 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:30:27
+2016-01-16 14:31:54,215 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:31:54
+2016-01-16 14:33:20,621 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:33:20
+2016-01-16 14:34:47,027 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:34:47
+2016-01-16 14:36:13,434 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:36:13
+2016-01-16 14:37:39,840 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:37:39
+2016-01-16 14:39:06,247 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:39:06
+2016-01-16 14:40:32,653 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:40:32
+2016-01-16 14:41:59,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:41:59
+2016-01-16 14:43:25,466 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:43:25
+2016-01-16 14:44:51,872 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:44:51
+2016-01-16 14:46:18,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 14:46:18
+2016-01-16 14:47:44,685 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:47:44
+2016-01-16 14:49:11,092 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:49:11
+2016-01-16 14:50:37,498 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:50:37
+2016-01-16 14:52:03,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:52:03
+2016-01-16 14:53:30,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:53:30
+2016-01-16 14:54:56,717 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 14:54:56
+2016-01-16 14:56:23,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:56:23
+2016-01-16 14:57:49,530 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 14:57:49
+2016-01-16 14:59:15,937 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 14:59:15
+2016-01-16 15:00:42,343 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:00:42
+2016-01-16 15:02:08,749 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 15:02:08
+2016-01-16 15:03:35,156 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 15:03:35
+2016-01-16 15:05:01,562 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:05:01
+2016-01-16 15:06:27,969 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:06:27
+2016-01-16 15:07:54,375 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:07:54
+2016-01-16 15:09:20,782 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:09:20
+2016-01-16 15:10:47,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:10:47
+2016-01-16 15:12:13,594 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:12:13
+2016-01-16 15:13:40,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:13:40
+2016-01-16 15:15:06,407 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:15:06
+2016-01-16 15:16:32,814 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:16:32
+2016-01-16 15:17:59,220 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:17:59
+2016-01-16 15:19:25,626 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 15:19:25
+2016-01-16 15:20:52,033 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:20:52
+2016-01-16 15:22:18,439 [7] INFO  umbraco.BusinessLogic.Log - [Thread 14] Log scrubbed.  Removed all items older than 2015-11-17 15:22:18
+2016-01-16 15:23:44,846 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:23:44
+2016-01-16 15:25:11,252 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:25:11
+2016-01-16 15:26:37,659 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:26:37
+2016-01-16 15:28:04,065 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:28:04
+2016-01-16 15:29:30,471 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:29:30
+2016-01-16 15:30:56,878 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:30:56
+2016-01-16 15:32:23,284 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:32:23
+2016-01-16 15:33:49,706 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:33:49
+2016-01-16 15:35:16,097 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:35:16
+2016-01-16 15:36:42,504 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:36:42
+2016-01-16 15:38:08,910 [7] INFO  umbraco.BusinessLogic.Log - [Thread 13] Log scrubbed.  Removed all items older than 2015-11-17 15:38:08
+2016-01-16 15:39:35,316 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:39:35
+2016-01-16 15:41:01,723 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:41:01
+2016-01-16 15:42:28,129 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:42:28
+2016-01-16 15:43:54,536 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:43:54
+2016-01-16 15:45:20,942 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:45:20
+2016-01-16 15:46:47,348 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:46:47
+2016-01-16 15:48:13,755 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:48:13
+2016-01-16 15:49:40,161 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:49:40
+2016-01-16 15:51:06,568 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 15:51:06
+2016-01-16 15:52:32,974 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:52:32
+2016-01-16 15:53:59,381 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:53:59
+2016-01-16 15:55:25,787 [7] INFO  umbraco.BusinessLogic.Log - [Thread 8] Log scrubbed.  Removed all items older than 2015-11-17 15:55:25
+2016-01-16 15:56:52,193 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 15:56:52
+2016-01-16 15:58:18,600 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 15:58:18
+2016-01-16 15:59:45,006 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 15:59:45
+2016-01-16 16:01:11,413 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:01:11
+2016-01-16 16:02:37,819 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 16:02:37
+2016-01-16 16:04:04,225 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:04:04
+2016-01-16 16:05:30,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:05:30
+2016-01-16 16:06:57,038 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:06:57
+2016-01-16 16:08:23,445 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:08:23
+2016-01-16 16:09:49,851 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:09:49
+2016-01-16 16:11:16,258 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:11:16
+2016-01-16 16:12:42,664 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:12:42
+2016-01-16 16:14:09,070 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:14:09
+2016-01-16 16:15:35,477 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:15:35
+2016-01-16 16:17:01,883 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:17:01
+2016-01-16 16:18:28,290 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:18:28
+2016-01-16 16:19:54,696 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:19:54
+2016-01-16 16:21:21,103 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 16:21:21
+2016-01-16 16:22:47,509 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:22:47
+2016-01-16 16:24:13,915 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:24:13
+2016-01-16 16:25:40,322 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:25:40
+2016-01-16 16:27:06,728 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:27:06
+2016-01-16 16:28:33,135 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 16:28:33
+2016-01-16 16:29:59,541 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:29:59
+2016-01-16 16:31:25,947 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:31:25
+2016-01-16 16:32:52,354 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:32:52
+2016-01-16 16:34:18,760 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:34:18
+2016-01-16 16:35:45,167 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:35:45
+2016-01-16 16:37:11,573 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:37:11
+2016-01-16 16:38:37,980 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:38:37
+2016-01-16 16:40:04,386 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:40:04
+2016-01-16 16:41:30,792 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:41:30
+2016-01-16 16:42:57,199 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:42:57
+2016-01-16 16:44:23,605 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:44:23
+2016-01-16 16:45:50,012 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:45:50
+2016-01-16 16:47:16,418 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:47:16
+2016-01-16 16:48:42,824 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:48:42
+2016-01-16 16:50:09,231 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 16:50:09
+2016-01-16 16:51:35,637 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:51:35
+2016-01-16 16:53:02,044 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 16:53:02
+2016-01-16 16:54:28,450 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:54:28
+2016-01-16 16:55:54,857 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 16:55:54
+2016-01-16 16:57:21,263 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 16:57:21
+2016-01-16 16:58:47,669 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 16:58:47
+2016-01-16 17:00:14,076 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:00:14
+2016-01-16 17:01:40,482 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:01:40
+2016-01-16 17:03:06,889 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:03:06
+2016-01-16 17:04:33,295 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 17:04:33
+2016-01-16 17:05:59,701 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:05:59
+2016-01-16 17:07:26,108 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:07:26
+2016-01-16 17:08:52,514 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:08:52
+2016-01-16 17:10:18,921 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:10:18
+2016-01-16 17:11:45,327 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:11:45
+2016-01-16 17:13:11,734 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:13:11
+2016-01-16 17:14:38,140 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:14:38
+2016-01-16 17:16:04,546 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:16:04
+2016-01-16 17:17:30,953 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 17:17:30
+2016-01-16 17:18:57,391 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:18:57
+2016-01-16 17:20:23,781 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:20:23
+2016-01-16 17:21:50,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:21:50
+2016-01-16 17:23:16,594 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:23:16
+2016-01-16 17:24:43,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:24:43
+2016-01-16 17:26:09,407 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:26:09
+2016-01-16 17:27:35,813 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 17:27:35
+2016-01-16 17:29:02,220 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:29:02
+2016-01-16 17:30:28,626 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 17:30:28
+2016-01-16 17:31:55,033 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:31:55
+2016-01-16 17:33:21,439 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:33:21
+2016-01-16 17:34:47,846 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 17:34:47
+2016-01-16 17:36:14,252 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:36:14
+2016-01-16 17:37:40,658 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:37:40
+2016-01-16 17:39:07,065 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:39:07
+2016-01-16 17:40:33,471 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:40:33
+2016-01-16 17:41:59,878 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:41:59
+2016-01-16 17:43:26,284 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:43:26
+2016-01-16 17:44:52,690 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:44:52
+2016-01-16 17:46:19,097 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:46:19
+2016-01-16 17:47:45,503 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:47:45
+2016-01-16 17:49:11,910 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:49:11
+2016-01-16 17:50:38,316 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:50:38
+2016-01-16 17:52:04,723 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 17:52:04
+2016-01-16 17:53:31,129 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:53:31
+2016-01-16 17:54:57,535 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:54:57
+2016-01-16 17:56:23,942 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 17:56:23
+2016-01-16 17:57:50,348 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 17:57:50
+2016-01-16 17:59:16,755 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 17:59:16
+2016-01-16 18:00:43,161 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:00:43
+2016-01-16 18:02:09,567 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:02:09
+2016-01-16 18:03:35,974 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:03:35
+2016-01-16 18:05:02,380 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:05:02
+2016-01-16 18:06:28,787 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:06:28
+2016-01-16 18:07:55,193 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 18:07:55
+2016-01-16 18:09:21,600 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:09:21
+2016-01-16 18:10:48,006 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:10:48
+2016-01-16 18:12:14,412 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:12:14
+2016-01-16 18:13:40,819 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:13:40
+2016-01-16 18:15:07,225 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:15:07
+2016-01-16 18:16:33,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:16:33
+2016-01-16 18:18:00,038 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:18:00
+2016-01-16 18:19:26,444 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:19:26
+2016-01-16 18:20:52,851 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:20:52
+2016-01-16 18:22:19,257 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:22:19
+2016-01-16 18:23:45,664 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:23:45
+2016-01-16 18:25:12,070 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:25:12
+2016-01-16 18:26:38,477 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:26:38
+2016-01-16 18:28:04,883 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:28:04
+2016-01-16 18:29:31,289 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:29:31
+2016-01-16 18:30:57,696 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:30:57
+2016-01-16 18:32:24,102 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 18:32:24
+2016-01-16 18:33:50,509 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:33:50
+2016-01-16 18:35:16,915 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 18:35:16
+2016-01-16 18:36:43,322 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:36:43
+2016-01-16 18:38:09,728 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 18:38:09
+2016-01-16 18:39:36,134 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:39:36
+2016-01-16 18:41:02,541 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:41:02
+2016-01-16 18:42:28,947 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:42:28
+2016-01-16 18:43:55,354 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:43:55
+2016-01-16 18:45:21,760 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 18:45:21
+2016-01-16 18:46:48,166 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:46:48
+2016-01-16 18:48:14,573 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:48:14
+2016-01-16 18:49:40,979 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:49:40
+2016-01-16 18:51:07,386 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:51:07
+2016-01-16 18:52:33,792 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 18:52:33
+2016-01-16 18:54:00,199 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:54:00
+2016-01-16 18:55:26,605 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:55:26
+2016-01-16 18:56:53,011 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 18:56:53
+2016-01-16 18:58:19,418 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 18:58:19
+2016-01-16 18:59:45,824 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 18:59:45
+2016-01-16 19:01:12,231 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:01:12
+2016-01-16 19:02:38,637 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:02:38
+2016-01-16 19:04:05,043 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:04:05
+2016-01-16 19:05:31,450 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:05:31
+2016-01-16 19:06:57,856 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:06:57
+2016-01-16 19:08:24,263 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:08:24
+2016-01-16 19:09:50,669 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:09:50
+2016-01-16 19:11:17,076 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:11:17
+2016-01-16 19:12:43,482 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:12:43
+2016-01-16 19:14:09,888 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:14:09
+2016-01-16 19:15:36,295 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:15:36
+2016-01-16 19:17:02,701 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:17:02
+2016-01-16 19:18:29,108 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:18:29
+2016-01-16 19:19:55,514 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:19:55
+2016-01-16 19:21:21,921 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:21:21
+2016-01-16 19:22:48,327 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:22:48
+2016-01-16 19:24:14,733 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:24:14
+2016-01-16 19:25:41,140 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:25:41
+2016-01-16 19:27:07,546 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:27:07
+2016-01-16 19:28:33,953 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:28:33
+2016-01-16 19:30:00,359 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:30:00
+2016-01-16 19:31:26,765 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:31:26
+2016-01-16 19:32:53,172 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:32:53
+2016-01-16 19:34:19,578 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:34:19
+2016-01-16 19:35:45,985 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 19:35:45
+2016-01-16 19:37:12,391 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:37:12
+2016-01-16 19:38:38,798 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:38:38
+2016-01-16 19:40:05,204 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:40:05
+2016-01-16 19:41:31,610 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:41:31
+2016-01-16 19:42:58,017 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:42:58
+2016-01-16 19:44:24,423 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:44:24
+2016-01-16 19:45:50,830 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:45:50
+2016-01-16 19:47:17,236 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:47:17
+2016-01-16 19:48:43,642 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:48:43
+2016-01-16 19:50:10,049 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:50:10
+2016-01-16 19:51:36,455 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:51:36
+2016-01-16 19:53:02,862 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 19:53:02
+2016-01-16 19:54:29,268 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:54:29
+2016-01-16 19:55:55,675 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:55:55
+2016-01-16 19:57:22,081 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 19:57:22
+2016-01-16 19:58:48,487 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 19:58:48
+2016-01-16 20:00:14,894 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:00:14
+2016-01-16 20:01:41,300 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 20:01:41
+2016-01-16 20:03:07,707 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:03:07
+2016-01-16 20:04:34,113 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:04:34
+2016-01-16 20:06:00,519 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:06:00
+2016-01-16 20:07:26,926 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:07:26
+2016-01-16 20:08:53,332 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 20:08:53
+2016-01-16 20:10:19,739 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 20:10:19
+2016-01-16 20:11:46,145 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:11:46
+2016-01-16 20:13:12,552 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:13:12
+2016-01-16 20:14:38,974 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:14:38
+2016-01-16 20:16:05,364 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:16:05
+2016-01-16 20:17:31,771 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:17:31
+2016-01-16 20:18:58,177 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:18:58
+2016-01-16 20:20:24,584 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:20:24
+2016-01-16 20:21:50,990 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 20:21:50
+2016-01-16 20:23:17,397 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:23:17
+2016-01-16 20:24:43,803 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:24:43
+2016-01-16 20:26:10,209 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:26:10
+2016-01-16 20:27:36,616 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:27:36
+2016-01-16 20:29:03,022 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:29:03
+2016-01-16 20:30:29,429 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 20:30:29
+2016-01-16 20:31:55,835 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:31:55
+2016-01-16 20:33:22,241 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:33:22
+2016-01-16 20:34:48,648 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:34:48
+2016-01-16 20:36:15,054 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:36:15
+2016-01-16 20:37:41,461 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:37:41
+2016-01-16 20:39:07,867 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:39:07
+2016-01-16 20:40:34,274 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:40:34
+2016-01-16 20:42:00,680 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:42:00
+2016-01-16 20:43:27,086 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:43:27
+2016-01-16 20:44:53,493 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:44:53
+2016-01-16 20:46:19,899 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:46:19
+2016-01-16 20:47:46,306 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:47:46
+2016-01-16 20:49:12,712 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:49:12
+2016-01-16 20:50:39,118 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:50:39
+2016-01-16 20:52:05,525 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:52:05
+2016-01-16 20:53:31,931 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 20:53:31
+2016-01-16 20:54:58,338 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 20:54:58
+2016-01-16 20:56:24,744 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:56:24
+2016-01-16 20:57:51,151 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 20:57:51
+2016-01-16 20:59:17,557 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 20:59:17
+2016-01-16 21:00:43,963 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:00:43
+2016-01-16 21:02:10,370 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:02:10
+2016-01-16 21:03:36,776 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:03:36
+2016-01-16 21:05:03,183 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:05:03
+2016-01-16 21:06:29,589 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:06:29
+2016-01-16 21:07:55,995 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:07:55
+2016-01-16 21:09:22,402 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:09:22
+2016-01-16 21:10:48,808 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:10:48
+2016-01-16 21:12:15,215 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:12:15
+2016-01-16 21:13:41,621 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:13:41
+2016-01-16 21:15:08,028 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:15:08
+2016-01-16 21:16:34,434 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:16:34
+2016-01-16 21:18:00,840 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:18:00
+2016-01-16 21:19:27,247 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:19:27
+2016-01-16 21:20:53,653 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:20:53
+2016-01-16 21:22:20,060 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:22:20
+2016-01-16 21:23:46,466 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:23:46
+2016-01-16 21:25:12,873 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:25:12
+2016-01-16 21:26:39,279 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:26:39
+2016-01-16 21:28:05,685 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:28:05
+2016-01-16 21:29:32,092 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:29:32
+2016-01-16 21:30:58,498 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:30:58
+2016-01-16 21:32:24,905 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:32:24
+2016-01-16 21:33:51,311 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:33:51
+2016-01-16 21:35:17,717 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:35:17
+2016-01-16 21:36:44,124 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:36:44
+2016-01-16 21:38:10,530 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:38:10
+2016-01-16 21:39:36,937 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:39:36
+2016-01-16 21:41:03,343 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:41:03
+2016-01-16 21:42:29,750 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:42:29
+2016-01-16 21:43:56,156 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:43:56
+2016-01-16 21:45:22,562 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:45:22
+2016-01-16 21:46:48,969 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:46:48
+2016-01-16 21:48:15,375 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:48:15
+2016-01-16 21:49:41,782 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 21:49:41
+2016-01-16 21:51:08,188 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:51:08
+2016-01-16 21:52:34,595 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:52:34
+2016-01-16 21:54:01,001 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:54:01
+2016-01-16 21:55:27,407 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:55:27
+2016-01-16 21:56:53,814 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 21:56:53
+2016-01-16 21:58:20,220 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 21:58:20
+2016-01-16 21:59:46,627 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 21:59:46
+2016-01-16 22:01:13,033 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:01:13
+2016-01-16 22:02:39,439 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:02:39
+2016-01-16 22:04:05,846 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:04:05
+2016-01-16 22:05:32,252 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:05:32
+2016-01-16 22:06:58,659 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:06:58
+2016-01-16 22:08:25,065 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:08:25
+2016-01-16 22:09:51,472 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:09:51
+2016-01-16 22:11:17,878 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:11:17
+2016-01-16 22:12:44,284 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:12:44
+2016-01-16 22:14:10,691 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:14:10
+2016-01-16 22:15:37,097 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:15:37
+2016-01-16 22:17:03,504 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:17:03
+2016-01-16 22:18:29,910 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:18:29
+2016-01-16 22:19:56,316 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:19:56
+2016-01-16 22:21:22,723 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:21:22
+2016-01-16 22:22:49,129 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:22:49
+2016-01-16 22:24:15,536 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:24:15
+2016-01-16 22:25:41,942 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:25:41
+2016-01-16 22:27:08,349 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:27:08
+2016-01-16 22:28:34,771 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:28:34
+2016-01-16 22:30:01,161 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:30:01
+2016-01-16 22:31:27,568 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:31:27
+2016-01-16 22:32:53,974 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:32:53
+2016-01-16 22:34:20,381 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:34:20
+2016-01-16 22:35:46,787 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:35:46
+2016-01-16 22:37:13,194 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:37:13
+2016-01-16 22:38:39,600 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:38:39
+2016-01-16 22:40:06,006 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:40:06
+2016-01-16 22:41:32,413 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:41:32
+2016-01-16 22:42:58,819 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:42:58
+2016-01-16 22:44:25,226 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 22:44:25
+2016-01-16 22:45:51,632 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:45:51
+2016-01-16 22:47:18,038 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:47:18
+2016-01-16 22:48:44,445 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:48:44
+2016-01-16 22:50:10,851 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:50:10
+2016-01-16 22:51:37,258 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 22:51:37
+2016-01-16 22:53:03,664 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:53:03
+2016-01-16 22:54:30,071 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:54:30
+2016-01-16 22:55:56,477 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:55:56
+2016-01-16 22:57:22,883 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 22:57:22
+2016-01-16 22:58:49,290 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 22:58:49
+2016-01-16 23:00:15,696 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:00:15
+2016-01-16 23:01:42,103 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:01:42
+2016-01-16 23:03:08,509 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:03:08
+2016-01-16 23:04:34,915 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:04:34
+2016-01-16 23:06:01,322 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:06:01
+2016-01-16 23:07:27,728 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:07:27
+2016-01-16 23:08:54,135 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:08:54
+2016-01-16 23:10:20,541 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:10:20
+2016-01-16 23:11:46,948 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:11:46
+2016-01-16 23:13:13,354 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:13:13
+2016-01-16 23:14:39,760 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:14:39
+2016-01-16 23:16:06,167 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:16:06
+2016-01-16 23:17:32,589 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:17:32
+2016-01-16 23:18:58,980 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:18:58
+2016-01-16 23:20:25,386 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:20:25
+2016-01-16 23:21:51,792 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:21:51
+2016-01-16 23:23:18,199 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:23:18
+2016-01-16 23:24:44,605 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:24:44
+2016-01-16 23:26:11,012 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:26:11
+2016-01-16 23:27:37,418 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:27:37
+2016-01-16 23:29:03,825 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:29:03
+2016-01-16 23:30:30,231 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:30:30
+2016-01-16 23:31:56,637 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:31:56
+2016-01-16 23:33:23,044 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:33:23
+2016-01-16 23:34:49,450 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:34:49
+2016-01-16 23:36:15,857 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:36:15
+2016-01-16 23:37:42,263 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:37:42
+2016-01-16 23:39:08,670 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:39:08
+2016-01-16 23:40:35,076 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:40:35
+2016-01-16 23:42:01,482 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:42:01
+2016-01-16 23:43:27,889 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:43:27
+2016-01-16 23:44:54,295 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:44:54
+2016-01-16 23:46:20,702 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:46:20
+2016-01-16 23:47:47,108 [7] INFO  umbraco.BusinessLogic.Log - [Thread 17] Log scrubbed.  Removed all items older than 2015-11-17 23:47:47
+2016-01-16 23:49:13,515 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:49:13
+2016-01-16 23:50:39,921 [7] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-11-17 23:50:39
+2016-01-16 23:52:06,327 [7] INFO  umbraco.BusinessLogic.Log - [Thread 18] Log scrubbed.  Removed all items older than 2015-11-17 23:52:06
+2016-01-16 23:53:32,734 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:53:32
+2016-01-16 23:54:59,140 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:54:59
+2016-01-16 23:56:25,547 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:56:25
+2016-01-16 23:57:51,953 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:57:51
+2016-01-16 23:59:18,359 [7] INFO  umbraco.BusinessLogic.Log - [Thread 16] Log scrubbed.  Removed all items older than 2015-11-17 23:59:18
